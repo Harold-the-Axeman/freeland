@@ -634,11 +634,11 @@ fort = {
 	type = fort
 	goods_cost =
 	{
-		lumber = 100
-		cement = 100
-		explosives = 50
-		small_arms = 50
-		artillery = 40
+		lumber = 1000
+		cement = 1000
+		explosives = 500
+		small_arms = 500
+		artillery = 400
 	}
 	time = 1080 
 	visibility = yes
@@ -653,10 +653,10 @@ naval_base = {
 	cost = 15000
 	goods_cost =
 	{
-		timber = 50
-		lumber = 50
-		cement = 100
-		steel = 100
+		timber = 500
+		lumber = 500
+		cement = 1000
+		steel = 1000
 		machine_parts = 1
 	}
 	time = 1080
