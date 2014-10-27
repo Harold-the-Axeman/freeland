@@ -4,7 +4,7 @@
 
 ##### POLITICAL EVENTS ######
 government_sanitarium = {
-	population_growth = 0.005
+	population_growth = 0.001
 	icon = 19
 }
 
@@ -33,7 +33,7 @@ global_liberal_agitation = {
 }
 
 potato_blight = {
-	population_growth = -0.02
+	population_growth = -0.004
 	pop_militancy_modifier = 0.01
 	icon = 20
 }
@@ -44,12 +44,12 @@ anti_jacobin_tract = {
 }
 
 cholera_epidemic_small = {
-	population_growth = -0.01
+	population_growth = -0.002
 	icon = 20
 }
 
 cholera_epidemic_big = {
-	population_growth = -0.02
+	population_growth = -0.004
 	icon = 20
 }
 
@@ -155,13 +155,13 @@ colonial_mismanagement = {
 colonial_recruitment = {
 	immigrant_attract = 1		#100%
 	life_rating = 0.1
-	population_growth = 0.01
+	population_growth = 0.002
 	assimilation_rate = 0.25
 	icon = 9
 }
 
 baby_boom = {
-	population_growth = 0.01
+	population_growth = 0.002
 	icon = 19
 }
 
@@ -260,7 +260,7 @@ am_everywhere = {
 
 the_massacre = {
 	poor_everyday_needs = -0.2
-	population_growth = -0.01
+	population_growth = -0.002
 	icon = 18
 }
 fascist_welfare = {
@@ -576,7 +576,7 @@ local_machine_tools = {
 
 ##### Diseases & Famines #####
 pandemic_influenza = {
-	global_population_growth = -0.01
+	global_population_growth = -0.002
 	global_pop_consciousness_modifier = 0.1
 	icon = 18
 }
@@ -739,7 +739,7 @@ the_walhalla = {
 }
 
 french_growth_nerf = {
-	global_population_growth = -0.01
+	global_population_growth = -0.002
 	icon = 18
 }
 
