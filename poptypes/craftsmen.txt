@@ -723,7 +723,7 @@ promote_to =
 		factor = 0.01
 	
 			modifier = {
-				factor =  -50
+				factor =  -100
 				not = { literacy = 0.50 }
 			}
 		group = {

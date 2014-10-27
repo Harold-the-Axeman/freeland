@@ -402,7 +402,7 @@ promote_to =
 		factor = 0.01
 	
 			modifier = {
-				factor =  -50
+				factor =  -100
 				not = { literacy = 0.50 }
 			}
 		group = {
@@ -720,17 +720,15 @@ promote_to =
 	
 	craftsmen = {
 		factor = 0.01
-		group = {
-			modifier = {
-				factor =  2
-				literacy = 0.10
-			}
-			modifier = {
-				factor = 2
+		modifier = {
+			factor = -100
+			NOT = { 
 				literacy = 0.20
 			}
+		}
+		group = {
 			modifier = {
-				factor = 2
+				factor = 6
 				literacy = 0.3
 			}
 			modifier = {
