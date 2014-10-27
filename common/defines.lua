@@ -1,7 +1,7 @@
 defines = {
 
 start_date = '1836.1.1',
-end_date = '1935.12.31',
+end_date = '4000.12.31',
 
 country = {
 	YEARS_OF_NATIONALISM 	= 20,   -- Years of Nationalism
@@ -27,9 +27,9 @@ country = {
 	COLONIAL_RANK = 16, --@1 Minimum rank a nation must have to send colonists
 	COLONY_TO_STATE_PRESTIGE_GAIN = 10, -- Prestige gain when turning colony to state
 	COLONIAL_LIFERATING = 35,
-	BASE_GREATPOWER_DAILY_INFLUENCE = 0.25, --@2 Influence value which is distributed each day
+	BASE_GREATPOWER_DAILY_INFLUENCE = 0.01, --@2 Influence value which is distributed each day
 	AI_SUPPORT_REFORM = 0.05, -- At least this many % needs to support a reform for the AI to take it
-	BASE_MONTHLY_DIPLOPOINTS = 0.3, --@3 Base value gain for diplomatic actions each month
+	BASE_MONTHLY_DIPLOPOINTS = 0.1, --@3 Base value gain for diplomatic actions each month
 	DIPLOMAT_TRAVEL_TIME = 14,
 	PROVINCE_OVERSEAS_PENALTY = 0.005, -- Each province req. this many goods flagged as overseas penalty 
 	NONCORE_TAX_PENALTY = -0.05, -- -5% for each non-core in state
