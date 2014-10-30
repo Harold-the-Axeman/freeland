@@ -706,7 +706,7 @@ RGO_template_farmers = {
 		}
 		{ 
 			poptype = slaves 
-			effect = output
+			effect = throughput
 			amount = 1
 		}
 	}
@@ -730,7 +730,7 @@ RGO_template_labourers = {
 		}
 		{ 
 			poptype = slaves 
-			effect = output
+			effect = throughput
 			amount = 1
 		}
 	}
