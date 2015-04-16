@@ -811,4 +811,649 @@ behaviorism = {
 	}
 }
 
+#aesthetics
+quantum_physics = {
+	area = aesthetics
+	year = 1920
+	cost = 49000
+
+	prestige = 0.05
+
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 0.5
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+	}
+}
+programming_language = {
+	area = aesthetics
+	year = 1940
+	cost = 56000
+
+	prestige = 0.05
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 0.5
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+	}
+}
+information_theory = {
+	area = aesthetics
+	year = 1960
+	cost = 63000
+
+	prestige = 0.05
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 0.5
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+	}
+}
+medical_science = {
+	area = aesthetics
+	year = 1980
+	cost = 70000
+	
+	prestige = 0.05
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 0.5
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+	}
+}
+big_science = {
+	area = aesthetics
+	year = 2000
+	cost = 70000
+
+	prestige = 0.05
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 2
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 0.5
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+	}
+}
+
+
+#Internet and Networking
+radio_network = {
+	area = philosophy
+	year = 1920
+	cost = 49000
+
+	increase_research = 0.50
+	
+	ai_chance = {
+		factor = 51
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 2
+			year = 1950
+		}
+		modifier = {
+			factor = 1.1
+			year = 1960
+		}
+		modifier = {
+			factor = 2
+			year = 1970
+		}
+		modifier = {
+			factor = 2
+			year = 1980
+		}
+	}
+}
+public_switched_telephone_network = {
+	area = philosophy
+	year = 1940
+	cost = 56000
+
+	increase_research = 0.50
+	
+	ai_chance = {
+		factor = 51
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 2
+			year = 1950
+		}
+		modifier = {
+			factor = 1.1
+			year = 1960
+		}
+		modifier = {
+			factor = 2
+			year = 1970
+		}
+		modifier = {
+			factor = 2
+			year = 1980
+		}
+	}
+}
+pstn_network = {
+	area = philosophy
+	year = 1960
+	cost = 63000
+
+	increase_research = 0.50
+	
+	ai_chance = {
+		factor = 51
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 2
+			year = 1950
+		}
+		modifier = {
+			factor = 1.1
+			year = 1960
+		}
+		modifier = {
+			factor = 2
+			year = 1970
+		}
+		modifier = {
+			factor = 2
+			year = 1980
+		}
+	}
+}
+telephone_exchange = {
+	area = philosophy
+	year = 1980
+	cost = 70000
+
+	increase_research = 0.50
+	
+	ai_chance = {
+		factor = 51
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 2
+			year = 1970
+		}
+		modifier = {
+			factor = 2
+			year = 1980
+		}
+	}
+}
+early_networks = {
+	area = philosophy
+	year = 2000
+	cost = 70000
+
+
+	increase_research = 0.50
+	
+	ai_chance = {
+		factor = 51
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 2
+			year = 2000
+		}
+		modifier = {
+			factor = 1.1
+			year = 2010
+		}
+		modifier = {
+			factor = 2
+			year = 2020
+		}
+		modifier = {
+			factor = 2
+			year = 2030
+		}
+	}
+}
+
+#social_thought
+compulsory_primary_education = {
+	area = social_thought
+	year = 1920
+	cost = 49000
+
+
+	education_efficiency = 0.1
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.2 }
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+	}
+}
+compulsory_secondary_education = {
+	area = social_thought
+	year = 1940
+	cost = 56000
+
+	education_efficiency = 0.1
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.2 }
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+	}
+}
+tripartite_system = {
+	area = social_thought
+	year = 1960
+	cost = 63000
+
+	education_efficiency = 0.1
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.2 }
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+	}
+}
+comprehensive_education = {
+	area = social_thought
+	year = 1980
+	cost = 70000
+
+	education_efficiency = 0.1
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.2 }
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+	}
+}
+preschool_education = {
+	area = social_thought
+	year = 2000
+	cost = 70000
+
+
+	education_efficiency = 0.1
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.3 }
+		}
+		modifier = {
+			factor = 1.5 #2
+			not = { literacy = 0.2 }
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+	}
+}
+
+#political_thought
+containment = {
+	area = political_thought
+	year = 1920
+	cost = 49000
+
+	max_national_focus = 1
+	
+	ai_chance = {
+		factor = 11
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 6
+			is_greater_power = yes
+			year = 2030
+		}
+	}
+}
+cold_war = {
+	area = political_thought
+	year = 1940
+	cost = 56000
+
+	cb_creation_speed = 0.1
+	
+	ai_chance = {
+		factor = 11
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+                modifier = {
+                        factor = 6
+                        OR = {
+				tag = USA
+				tag = RUS
+			}
+			is_greater_power = yes
+                }
+		modifier = {
+			factor = 6
+			is_greater_power = yes
+			year = 2030
+		}
+	}
+}
+detente = {
+	area = political_thought
+	year = 1960
+	cost = 63000
+
+	cb_creation_speed = 0.1
+	
+	ai_chance = {
+		factor = 11
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 6
+			is_greater_power = yes
+			year = 2030
+		}
+	}
+}
+second_cold_war = {
+	area = political_thought
+	year = 1980
+	cost = 70000
+
+	cb_creation_speed = 0.1
+	
+	ai_chance = {
+		factor = 11
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 6
+			is_greater_power = yes
+			year = 2030
+		}
+	}
+}
+colour_revolution = {
+	area = political_thought
+	year = 2000
+	cost = 70000
+
+	cb_creation_speed = 0.1
+	
+	ai_chance = {
+		factor = 11
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 6
+			is_greater_power = yes
+			year = 2030
+		}
+	}
+}
+
+#psychology
+decolonization = {
+	area = psychology
+	year = 1920
+	cost = 49000
+
+
+	regular_experience_level = 5
+	reinforce_rate = 0.05
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.05 #1.25
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 1.1
+			year = 2020
+		}
+		modifier = {
+			factor = 2
+			year = 2030
+		}
+	}
+
+}
+wars_of_national_liberation = {
+	area = psychology
+	year = 1940
+	cost = 56000
+
+	regular_experience_level = 5
+	reinforce_rate = 0.05
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.05 #1.25
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 1.1
+			year = 2020
+		}
+		modifier = {
+			factor = 2
+			year = 2030
+		}
+	}
+
+}
+seventies_subcultures = {
+	area = psychology
+	year = 1960
+	cost = 63000
+
+
+	regular_experience_level = 5
+	reinforce_rate = 0.05
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.05 #1.25
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 1.1
+			year = 2020
+		}
+		modifier = {
+			factor = 2
+			year = 2030
+		}
+	}
+
+}
+neoliberalism = {
+	area = psychology
+	year = 1980
+	cost = 70000
+
+
+	regular_experience_level = 5
+	reinforce_rate = 0.05
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.05 #1.25
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 1.1
+			year = 2020
+		}
+		modifier = {
+			factor = 2
+			year = 2030
+		}
+	}
+
+}
+market_communism = {
+	area = psychology
+	year = 2000
+	cost = 70000
+
+	regular_experience_level = 5
+	reinforce_rate = 0.05
+	
+	ai_chance = {
+		factor = 1.01
+		modifier = {
+			factor = 1.05 #1.25
+			is_greater_power = yes
+		}
+		modifier = {
+			factor = 1.02
+			tech_school = culture_tech_school
+		}
+		modifier = {
+			factor = 1.1
+			year = 2020
+		}
+		modifier = {
+			factor = 2
+			year = 2030
+		}
+	}
+
+}
+
+
+
 
