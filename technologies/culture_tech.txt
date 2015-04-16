@@ -2,7 +2,7 @@
 classicism_n_early_romanticism = {
 	area = aesthetics
 	year = 1836
-	cost = 3600
+	cost = 7000
 
 	prestige = 0.05
 	ai_chance = {
@@ -25,7 +25,7 @@ classicism_n_early_romanticism = {
 romanticism = {
 	area = aesthetics
 	year = 1836
-	cost = 7200
+	cost = 14000
 	
 	prestige = 0.05
 
@@ -60,7 +60,7 @@ romanticism = {
 realism = {
 	area = aesthetics
 	year = 1836
-	cost = 10800
+	cost = 21000
 
 	prestige = 0.05
 	ai_chance = {
@@ -87,7 +87,7 @@ realism = {
 impressionism = {
 	area = aesthetics
 	year = 1850
-	cost = 14400
+	cost = 28000
 
 	prestige = 0.05
 	ai_chance = {
@@ -114,7 +114,7 @@ impressionism = {
 expressionism = {
 	area = aesthetics
 	year = 1870
-	cost = 18000
+	cost = 35000
 
 	prestige = 0.05
 	ai_chance = {
@@ -141,7 +141,7 @@ expressionism = {
 mass_culture_n_the_avant_garde = {
 	area = aesthetics
 	year = 1900
-	cost = 21600
+	cost = 42000
 
 	prestige = 0.05
 	ai_chance = {
@@ -171,7 +171,7 @@ mass_culture_n_the_avant_garde = {
 late_enlightenment_philosophy = {
 	area = philosophy
 	year = 1836
-	cost = 3600
+	cost = 7000
 
 
 	increase_research = 0.50
@@ -207,7 +207,7 @@ late_enlightenment_philosophy = {
 idealism = {
 	area = philosophy
 	year = 1840
-	cost = 7200
+	cost = 14000
 
 	increase_research = 0.50
 	ai_chance = {
@@ -242,7 +242,7 @@ idealism = {
 empiricism = {
 	area = philosophy
 	year = 1860
-	cost = 10800
+	cost = 21000
 	
 	increase_research = 0.50
 	ai_chance = {
@@ -268,7 +268,7 @@ empiricism = {
 analytic_philosophy = {
 	area = philosophy
 	year = 1870
-	cost = 14400
+	cost = 28000
 
 	increase_research = 1.0
 	ai_chance = {
@@ -290,7 +290,7 @@ analytic_philosophy = {
 phenomenology_n_hermeneutic = {
 	area = philosophy
 	year = 1880
-	cost = 18000
+	cost = 35000
 
 	increase_research = 1.0
 	ai_chance = {
@@ -312,7 +312,7 @@ phenomenology_n_hermeneutic = {
 anti__rationalism = {
 	area = philosophy
 	year = 1900
-	cost = 21600
+	cost = 42000
 
 	increase_research = 1.0
 	ai_chance = {
@@ -337,7 +337,7 @@ anti__rationalism = {
 malthusian_thought = {
 	area = social_thought
 	year = 1836
-	cost = 3600
+	cost = 7000
 
 	colonial_migration = 0.05
 	education_efficiency = 0.1
@@ -361,7 +361,7 @@ malthusian_thought = {
 positivism = {
 	area = social_thought
 	year = 1836
-	cost = 7200
+	cost = 14000
 	colonial_migration = 0.05
 	education_efficiency = 0.1
 	ai_chance = {
@@ -380,7 +380,7 @@ positivism = {
 functionalism = {
 	area = social_thought
 	year = 1836
-	cost = 10800
+	cost = 21000
 
 	colonial_migration = 0.05
 	education_efficiency = 0.1
@@ -400,7 +400,7 @@ functionalism = {
 biologism = {
 	area = social_thought
 	year = 1850
-	cost = 14400
+	cost = 28000
 
 	colonial_migration = 0.05
 	education_efficiency = 0.1
@@ -420,7 +420,7 @@ biologism = {
 social_science = {
 	area = social_thought
 	year = 1870
-	cost = 18000
+	cost = 35000
 
 	colonial_migration = 0.05
 	education_efficiency = 0.1
@@ -440,7 +440,7 @@ social_science = {
 social_alienation = {
 	area = social_thought
 	year = 1900
-	cost = 21600
+	cost = 42000
 	
 	colonial_migration = 0.05
 	education_efficiency = 0.1
@@ -467,7 +467,7 @@ social_alienation = {
 enlightenment_thought = {
 	area = political_thought
 	year = 1836
-	cost = 3600
+	cost = 7000
 
 	max_national_focus = 1
 	
@@ -487,7 +487,7 @@ enlightenment_thought = {
 ideological_thought = {
 	area = political_thought
 	year = 1836
-	cost = 7200
+	cost = 14000
 
 	max_national_focus = 1 
 		
@@ -520,7 +520,7 @@ ideological_thought = {
 state_n_government = {
 	area = political_thought
 	year = 1840
-	cost = 10800
+	cost = 21000
 
 	max_national_focus = 1 
 	ai_chance = {
@@ -552,7 +552,7 @@ state_n_government = {
 nationalism_n_imperialism = {
 	area = political_thought
 	year = 1850
-	cost = 14400
+	cost = 28000
 
 	max_national_focus = 1
 	#colonial_life_rating = -10 
@@ -593,7 +593,7 @@ nationalism_n_imperialism = {
 revolution_n_counterrevolution = {
 	area = political_thought
 	year = 1870
-	cost = 18000
+	cost = 35000
 
 	max_national_focus = 1
 	diplomatic_points = 0.25
@@ -617,7 +617,7 @@ revolution_n_counterrevolution = {
 mass_politics = {
 	area = political_thought
 	year = 1900
-	cost = 21600
+	cost = 42000
 
 	max_national_focus = 1 
 	ai_chance = {
@@ -642,7 +642,7 @@ mass_politics = {
 introspectionism = {
 	area = psychology
 	year = 1836
-	cost = 3600
+	cost = 7000
 
 
 	regular_experience_level = 5
@@ -672,7 +672,7 @@ introspectionism = {
 associationism = {
 	area = psychology
 	year = 1836
-	cost = 7200
+	cost = 14000
 
 	regular_experience_level = 5
 	reinforce_rate = 0.05
@@ -700,7 +700,7 @@ associationism = {
 phenomenalism = {
 	area = psychology
 	year = 1836
-	cost = 10800
+	cost = 21000
 
 	regular_experience_level = 5
 	reinforce_rate = 0.05
@@ -728,7 +728,7 @@ phenomenalism = {
 experimental_psychology = {
 	area = psychology
 	year = 1850
-	cost = 14400
+	cost = 28000
 
 	regular_experience_level = 5
 	reinforce_rate = 0.05
@@ -756,7 +756,7 @@ experimental_psychology = {
 psychoanalysis = {
 	area = psychology
 	year = 1870
-	cost = 18000
+	cost = 35000
 
 	regular_experience_level = 5
 	reinforce_rate = 0.05
@@ -785,7 +785,7 @@ psychoanalysis = {
 behaviorism = {
 	area = psychology
 	year = 1900
-	cost = 21600
+	cost = 42000
 
 	regular_experience_level = 5
 	reinforce_rate = 0.05
