@@ -1,6 +1,31 @@
 
 ### Factories #####################################################################################
 
+tech_factory_template = {
+	efficiency = {
+		cement = 0.5 #if no cement, work at 75% efficiency #cost = 16.0
+		machine_parts = 0.05 # was 0.01 cost = 36.5		# 9.825/day/level for both
+	}
+	
+	owner =
+	{
+		poptype = capitalists 
+		effect = input
+		effect_multiplier = -2.5
+	}
+	
+	employees = {				
+		{ 
+			poptype = clerks 
+			effect = throughput
+			amount = 1.0
+		}
+	
+	}
+	type = factory
+	workforce = 4000 
+}
+
 factory_template = {
 	efficiency = {
 		cement = 0.5 #if no cement, work at 75% efficiency #cost = 16.0
@@ -128,7 +153,7 @@ cement_template = {
 ############# LATE GAME FACTORIES
 
 aeroplane_factory = {       
-	template = machine_part_user_template
+	template = tech_factory_template
 	input_goods = {
 		machine_parts = 1.11	#38.69
 		electric_gear = 2	#32
@@ -148,7 +173,7 @@ aeroplane_factory = {
 }
 
 barrel_factory = {       
-	template = machine_part_user_template
+	template = tech_factory_template
 	input_goods = {   
 		automobiles = 0.3	#21
 		machine_parts = 0.85	#29.2
@@ -172,7 +197,7 @@ barrel_factory = {
 }
 
 automobile_factory = {       
-	template = machine_part_user_template
+	template = tech_factory_template
 	input_goods = {     
 		machine_parts = 1.05	#36.5
 		electric_gear = 1.5	#24
@@ -197,7 +222,7 @@ automobile_factory = {
 }
 
 radio_factory = {       
-	template = factory_template
+	template = tech_factory_template
 	input_goods = {      
 		glass = 10 		#29
 		electric_gear = 3	#48  	total input+maint = 87
@@ -215,7 +240,7 @@ radio_factory = {
 }
 
 telephone_factory = {       
-	template = factory_template
+	template = tech_factory_template
 	input_goods = {       
 		glass = 15 		#43.5
 		electric_gear = 2.5	#40 	total input+maint = 93.5
@@ -235,7 +260,7 @@ telephone_factory = {
 ############# STRATEGIC FACTORIES
 
 electric_gear_factory = {       
-	template = factory_template
+	template = tech_factory_template
 	input_goods = { 
 		rubber = 4		#28
 		coal = 5		#11.5
@@ -258,7 +283,7 @@ electric_gear_factory = {
 }
 
 machine_parts_factory = {       
-	template = factory_template
+	template = tech_factory_template
 	input_goods = {    
 		steel = 9		#42.3
 		coal = 5		#11.5  total input+maint = 66
@@ -309,7 +334,7 @@ fuel_refinery = {
 }
 
 steamer_shipyard = {       
-	template = factory_template
+	template = tech_factory_template
 	input_goods = { 
 		steel = 22		#94
 		coal = 30		#69 (huhuh huhuh) total input+maint = 182
@@ -387,7 +412,7 @@ steel_factory = {
 }
 
 artillery_factory = {       
-	template = factory_template
+	template = tech_factory_template
 	input_goods = { 
 		explosives = 1		#20
 		steel = 8		#37.6   total input+maint = 67.6
@@ -882,123 +907,7 @@ tropical_wood_lodge = {
 
 ### Artisans #####################################################################################
 
-artisan_aeroplane = {       
-	input_goods = {
-		machine_parts = 1.06	#38.69
-		electric_gear = 2	#32
-		rubber = 1  		#7
-		lumber = 3.3 		#3.3	total input+maint = 90
-	}
-	output_goods = aeroplanes
-	value = 0.91			#100
-	
-	owner = {
-		poptype = artisan 
-		effect = output
-	}
-	
-	type = artisan
-	
-	workforce = 10000
-}
-
-artisan_barrel = {       
-	input_goods = {   
-		automobiles = 0.3	#21
-		machine_parts = 0.8	#29.2
-		electric_gear = 1	#16
-		rubber = 1		#7
-	}
-	output_goods = barrels 
-	value = 1.0			#98	total input+maint = 83
-	
-	owner = {
-		poptype = artisan 
-		effect = output
-	}
-	
-	type = artisan
-	
-	workforce = 10000
-}
-
-artisan_automobile = {       
-	input_goods = {     
-		machine_parts = 1	#36.5
-		electric_gear = 1.5	#24
-		rubber = 1		#7
-		steel = 2.25		#10.58	total input+maint = 89
-	}
-	
-	output_goods = automobiles 
-	value = 1.43			#100
-	
-	owner = {
-		poptype = artisan 
-		effect = output
-	}
-	
-	type = artisan
-	
-	workforce = 10000
-}
-
-artisan_radio = {       
-	input_goods = {      
-		glass = 10 		#29
-		electric_gear = 3	#48  	total input+maint = 87
-	}
-	output_goods = radio 
-	value = 6.5			#104
-	
-	owner = {
-		poptype = artisan  
-		effect = output
-	}
-	
-	type = artisan
-	
-	workforce = 10000
-}
-
-artisan_telephone = {       
-	input_goods = {       
-		glass = 15 		#43.5
-		electric_gear = 2.5	#40 	total input+maint = 93.5
-	}
-	output_goods = telephones 
-	value = 6.5			#104
-	
-	owner = {
-		poptype = artisan 
-		effect = output
-	}
-	
-	type = artisan
-	
-	workforce = 10000
-}
-
 ############# STRATEGIC FACTORIES
-
-artisan_electric_gear = {       
-	input_goods = { 
-		rubber = 4		#28
-		coal = 5		#11.5
-		iron = 5		#17.5	total input+maint = 67
-	}
-	output_goods = electric_gear 
-	value = 5			#80
-	
-	owner = {
-		poptype = artisan 
-		effect = output
-	}
-	
-	type = artisan
-	
-	workforce = 10000
-}
 
 artisan_machine_parts = {       
 	input_goods = {    
@@ -1019,43 +928,6 @@ artisan_machine_parts = {
 }
 
 ############# ADVANCED FACTORIES
-
-artisan_fuel = {       
-	input_goods = { 
-		oil = 2.5			#30	total input+maint = 40
-	}
-	output_goods = fuel
-	value = 2			#50
-	
-	owner = {
-		poptype = artisan 
-		effect = output
-	}
-	
-	type = artisan
-	
-	workforce = 10000
-}
-
-artisan_steamer = {       
-	input_goods = { 
-		steel = 22		#94
-		coal = 30		#69 (huhuhuhuh) total input+maint = 182
-	}
-	output_goods = steamer_convoy 
-	is_coastal = yes
-	value = 3			#195
-	
-	owner = {
-		poptype = artisan 
-		effect = output
-	}
-	
-	type = artisan
-	
-
-	workforce = 10000
-}
 
 ############# LUXURY GOODS FACTORIES
 
@@ -1113,24 +985,6 @@ artisan_steel = {
 	}
 	
 		
-	type = artisan
-	
-	workforce = 10000
-}
-
-artisan_artillery = {       
-	input_goods = { 
-		explosives = 1		#20
-		steel = 8		#37.6   total input+maint = 67.6
-	}
-	output_goods = artillery 
-	value = 1.3			#78
-
-	owner = {
-		poptype = artisan 
-		effect = output
-	}
-	
 	type = artisan
 	
 	workforce = 10000
