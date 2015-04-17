@@ -10,6 +10,128 @@
 #
 
 
+############# TECH GAME FACTORIES
+
+opium_factory = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		machine_parts = 80
+		iron = 200
+		cement = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = opium_factory
+	pop_build_factory = yes
+}
+
+silk_factory = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		machine_parts = 80
+		iron = 200
+		cement = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = silk_factory
+	pop_build_factory = yes
+}
+
+tropical_wood_factory = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		machine_parts = 80
+		iron = 200
+		cement = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = tropical_wood_factory
+	pop_build_factory = yes
+}
+
+tobacco_factory = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		machine_parts = 80
+		iron = 200
+		cement = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = tobacco_factory
+	pop_build_factory = yes
+}
+
+coffee_factory = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		machine_parts = 80
+		iron = 200
+		cement = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = coffee_factory
+	pop_build_factory = yes
+}
+
+rubber_factory = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		machine_parts = 80
+		iron = 200
+		cement = 200
+	}
+	time = 365
+	visibility = yes
+	onmap = no
+
+	production_type = rubber_factory
+	pop_build_factory = yes
+}
+
 ############# LATE GAME FACTORIES
 
 aeroplane_factory = {
