@@ -394,7 +394,8 @@ guiTypes = {
 		name = "tech_group"
 		backGround =""
 		position = { x=0 y=0 }	
-		size = { x=194 y=102 }
+		size = { x=194 y=101 }
+		#size = { x=194 y=102 }
 		moveable = 0
 		dontRender = ""
 		horizontalBorder = "0"
@@ -422,8 +423,9 @@ guiTypes = {
 		name = "tech_window"
 		backGround =""
 		position = { x=0 y=0 }	
-		size = { x=194 y=39 }
-		moveable = 0
+		#size = { x=194 y=39 }	
+		size = { x=194 y=21 }
+        moveable = 0
 		dontRender = ""
 		horizontalBorder = "0"
 		verticalBorder = ""
@@ -441,11 +443,13 @@ guiTypes = {
 		
 		instantTextBoxType = { 
 			name = "tech_name"
-			position = { x = 7 y = 9 }
-			font = "vic_18_black"
-			text = "tech_name"	
+			#position = { x = 7 y = 9 }	
+			position = { x = 7 y = 5 }
+            #font = "vic_18_black"	
+            font = "Arial12_bold"
+            text = "tech_name"	
 			maxWidth = 175
-			maxHeight = 20
+			maxHeight = 18 # 20
 			fixedsize = yes
 		}
 	
