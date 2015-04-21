@@ -4,13 +4,7 @@ water_wheel_power = {
 	year = 1836
 	cost = 7000
     
-    activate_building = opium_factory 
-    #activate_building = silk_factory
-    #activate_building = tropical_wood_factory
-    #activate_building = tobacco_factory
-    #activate_building = coffee_factory
-    #activate_building = rubber_factory
-    #activate_building =  fabric_factory
+    activate_building =  fabric_factory
 	mine_rgo_eff = 0.05
 	farm_rgo_eff = 0.15
 	ai_chance = {
@@ -1149,6 +1143,8 @@ synthetic_polymers = {
 	area = chemistry_and_electricity
 	year = 1919
 	cost = 42000
+
+	activate_building = rubber_factory
 
 	supply_limit = 0.50
 	ai_chance = {

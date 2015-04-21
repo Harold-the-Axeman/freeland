@@ -4,6 +4,8 @@ classicism_n_early_romanticism = {
 	year = 1836
 	cost = 7000
 
+    activate_building = opium_factory 
+
 	prestige = 0.05
 	ai_chance = {
 		factor = 1.01
@@ -173,6 +175,7 @@ late_enlightenment_philosophy = {
 	year = 1836
 	cost = 7000
 
+	activate_building = silk_factory
 
 	increase_research = 0.50
 	
@@ -339,6 +342,8 @@ malthusian_thought = {
 	year = 1836
 	cost = 7000
 
+    activate_building = tropical_wood_factory
+
 	colonial_migration = 0.05
 	education_efficiency = 0.1
 	
@@ -468,6 +473,8 @@ enlightenment_thought = {
 	area = political_thought
 	year = 1836
 	cost = 7000
+
+    activate_building = tobacco_factory
 
 	max_national_focus = 1
 	
@@ -644,6 +651,7 @@ introspectionism = {
 	year = 1836
 	cost = 7000
 
+    activate_building = coffee_factory
 
 	regular_experience_level = 5
 	reinforce_rate = 0.05
