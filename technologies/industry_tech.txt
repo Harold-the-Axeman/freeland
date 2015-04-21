@@ -1948,7 +1948,7 @@ early_backbone = {
 
 
 #chemistry_and_electricity
-electricity = {
+modern_electricity = {
 	area = chemistry_and_electricity
 	year = 1920
 	cost = 49000

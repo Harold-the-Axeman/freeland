@@ -3883,7 +3883,7 @@ green_blue_water_navies = {
 		}
 	}
 }
-carrier_battle_groups = {
+supercarrier_battle_group = {
 #naval_professionalism = {
 	area = naval_leadership
 	year = 2000

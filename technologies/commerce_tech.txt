@@ -469,7 +469,7 @@ neoclassical_theory = {
 		}		
 	}
 }
-keynesian_economics = {
+late_keynesian_economics = {
 	area = economic_thought_and_critique
 	year = 1900
 	cost = 42000
@@ -1460,7 +1460,7 @@ late_fordism = {
 		}
 	}	
 }
-scientific_management = {
+modern_scientific_management = {
 	area = tech_organization
 	year = 1940
 	cost = 56000
