@@ -2213,7 +2213,6 @@ modern_shipyard = {
 	unciv_military = yes
 
 	colonial_points = 100
-	navy_base = { build_time = +10 }
 
 
 	ai_chance = {
@@ -2283,7 +2282,7 @@ artificial_island = {
 	cost = 56000
 	unciv_military = yes
 
-	navy_base = { build_time = +10 }
+	colonial_points = 100
 
 	ai_chance = {
 		factor = 1
@@ -2351,8 +2350,8 @@ anti_ship_missiles = {
 	year = 1960
 	cost = 63000
 	unciv_military = yes
-	navy_base = { build_time = +10 }
-	max_naval_base = 1
+
+	colonial_points = 100
 
 	ai_chance = {
 		factor = 1
@@ -2420,10 +2419,8 @@ submarine_base = {
 	year = 1980
 	cost = 70000
 	unciv_military = yes
-	max_naval_base = 1
-	colonial_points = 100
-	navy_base = { build_time = +10 }
 
+	colonial_points = 100
 
 	ai_chance = {
 		factor = 1
@@ -2498,6 +2495,7 @@ marine_radar = {
 	year = 2000
 	cost = 70000
 	unciv_military = yes
+
 	colonial_points = 100
 
 
@@ -2570,7 +2568,9 @@ modern_shipbuilding = {
 	year = 1920
 	cost = 49000
 	unciv_military = yes
-	activate_building = ships_factory
+
+	navy_base = { maximum_speed = 1 }
+
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -2642,7 +2642,9 @@ corvettes = {
 	year = 1940
 	cost = 56000
 	unciv_military = yes
-	activate_unit = manowar # corvette
+
+	navy_base = { maximum_speed = 1 }
+
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -2714,7 +2716,9 @@ frigates = {
 	year = 1960
 	cost = 63000
 	unciv_military = yes
-	activate_unit = commerce_raider # frigate
+
+	navy_base = { maximum_speed = 1 }
+
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -2786,7 +2790,9 @@ destroyers = {
 	year = 1980
 	cost = 70000
 	unciv_military = yes
-	activate_unit = ironclad # destroyer
+
+	navy_base = { maximum_speed = 1 }
+
 	ai_chance = {
 		factor = 1
 		# Land-locked countries don't research this
@@ -2867,8 +2873,9 @@ nuclear_submarine = {
 	year = 2000
 	cost = 70000
 	unciv_military = yes
+
 	navy_base = { maximum_speed = 2 }
-	activate_unit = monitor # submarine
+
 	ai_chance = {
 		factor = 1
 		# Land-locked countries don't research this
@@ -2951,7 +2958,7 @@ ww2_aircraft_carrier = {
 	year = 1920
 	cost = 49000
 	unciv_military = yes
-	activate_unit = battleship # Aircraft Carrier
+
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -3027,8 +3034,10 @@ carrier_battle_group = {
 	area = naval_engineering
 	year = 1940
 	cost = 56000
-	navy_base = { build_time = -10 }
 	unciv_military = yes
+
+	navy_base = { build_time = -10 }
+
 	ai_chance = {
 		factor = 1
 		modifier = {
@@ -3260,8 +3269,10 @@ aircraft_carrier = {
 	area = naval_engineering
 	year = 2000
 	cost = 70000
-	navy_base = { build_time = -10 }
 	unciv_military = yes
+
+	navy_base = { build_time = -10 }
+
 	ai_chance = {
 		factor = 1
 		# Land-locked countries don't research this
@@ -3350,6 +3361,7 @@ ww2_command_system = {
 	year = 1920
 	cost = 49000
 	unciv_military = yes
+
 	supply_range = 0.10
 	
 	ai_chance = {
@@ -3393,6 +3405,7 @@ anti_submarine_warfare = {
 	year = 1940
 	cost = 56000
 	unciv_military = yes
+
 	supply_range = 0.10
 	
 	ai_chance = {
@@ -3436,6 +3449,7 @@ missile_guidance_system = {
 	year = 1960
 	cost = 63000
 	unciv_military = yes
+
 	supply_range = 0.10
 	
 	ai_chance = {
@@ -3479,6 +3493,7 @@ naval_sea_systems_command = {
 	year = 1980
 	cost = 70000
 	unciv_military = yes
+
 	supply_range = 0.10
 	
 	ai_chance = {
@@ -3522,6 +3537,7 @@ cruise_missile = {
 	year = 2000
 	cost = 70000
 	unciv_military = yes
+
 	supply_range = 0.10
 	
 	ai_chance = {
@@ -3568,8 +3584,9 @@ command_of_the_sea = {
 	year = 1920
 	cost = 49000
 	unciv_military = yes
+
 	navy_base = {
-		default_organisation = 10
+		default_organisation = 5
 	}
 	ai_chance = {
 		factor = 1
@@ -3646,6 +3663,7 @@ sea_denial_strategy = {
 	year = 1940
 	cost = 56000
 	unciv_military = yes
+
 	navy_base = {
 		default_organisation = 1
 	}
@@ -3724,6 +3742,7 @@ power_projection = {
 	year = 1960
 	cost = 63000
 	unciv_military = yes
+
 	navy_base = {
 		default_organisation = 1
 	}
@@ -3802,6 +3821,7 @@ green_blue_water_navies = {
 	year = 1980
 	cost = 70000
 	unciv_military = yes
+
 	navy_base = {
 		default_organisation = 1
 	}
@@ -3889,6 +3909,7 @@ supercarrier_battle_group = {
 	year = 2000
 	cost = 70000
 	unciv_military = yes
+	
 	navy_base = {
 		default_organisation = 5
 	}

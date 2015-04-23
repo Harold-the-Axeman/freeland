@@ -449,7 +449,7 @@ machine_guns = {
 	cost = 28000
 	unciv_military = yes
 	
-	combat_width = -5
+	combat_width = -4
 	#colonial_life_rating = -10 
 	ai_chance = {
 		factor = 6
@@ -496,7 +496,7 @@ bolt_action_rifles = {
 	unciv_military = yes
 	unit = 1
 	
-	combat_width = -5
+	combat_width = -3
 	
 	ai_chance = {
 		factor = 1.1
@@ -538,7 +538,7 @@ modern_divisional_structure = {
 	unciv_military = yes
 
 	unit = 2
-	combat_width = -5
+	combat_width = -3
 	
 		ai_chance = {
 		factor = 1.1
@@ -1511,9 +1511,6 @@ icbm = {
 		supply_consumption = 0.1
 	}
 	dig_in_cap = 1
-	engineer = {
-		support = 0.25
-	}
 	
 	ai_chance = {
 		factor = 1.01
@@ -1890,12 +1887,6 @@ antitank_weapons = {
 	year = 1940
 	cost = 56000
 	unciv_military = yes
-
-	artillery = {
-		attack = 0.25
-		support = 0.5
-		supply_consumption = 0.35
-	}
 	
 	ai_chance = {
 		factor = 1.05
@@ -1936,11 +1927,6 @@ main_battle_tank = {
 	cost = 63000
 	unciv_military = yes
 
-	artillery = {
-		attack = 0.25
-		support = 0.5
-		supply_consumption = 0.35
-	}
 	
 	ai_chance = {
 		factor = 1.05

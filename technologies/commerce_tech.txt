@@ -469,7 +469,7 @@ neoclassical_theory = {
 		}		
 	}
 }
-late_keynesian_economics = {
+keynesian_economics = {
 	area = economic_thought_and_critique
 	year = 1900
 	cost = 42000
@@ -1134,7 +1134,7 @@ washington_consensus = {
 }
 
 #economic_thought_and_critique
-keynesian_economics = {
+late_keynesian_economics = {
 	area = economic_thought_and_critique
 	year = 1920
 	cost = 49000
@@ -1199,7 +1199,7 @@ new_synthesis = {
 	year = 1960
 	cost = 63000
 
-	factory_input = -0.02
+	factory_input = -0.01
 	ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -1229,7 +1229,7 @@ austrian_school = {
 	year = 1980
 	cost = 70000
 
-	factory_input = -0.02
+	factory_input = -0.01
 	ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -1259,7 +1259,7 @@ new_keynesian = {
 	year = 2000
 	cost = 70000
 	
-	factory_input = -0.02
+	factory_input = -0.01
 	ai_chance = {
 		factor = 2
 		modifier = {
@@ -1367,8 +1367,8 @@ capitalism = {
 	year = 1980
 	cost = 70000
 
-	farm_rgo_eff = 0.1
-	mine_rgo_eff = 0.1
+	farm_rgo_eff = 0.05
+	mine_rgo_eff = 0.05
 	
 	ai_chance = {
 		factor = 3.5
@@ -1431,7 +1431,8 @@ late_fordism = {
 	year = 1920
 	cost = 49000
 	
-	factory_output = 0.02
+	factory_output = 0.01
+
 	ai_chance = {
 		factor = 1.05
 		modifier = {
