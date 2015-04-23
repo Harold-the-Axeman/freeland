@@ -800,7 +800,7 @@ machine_gun_armament = {
 }
 colonial_negotiations = {
 	limit = { 
-			year = 1870 
+			year = 1900 
 			breech_loaded_rifles = 1
 			}
 	news = no
@@ -817,18 +817,6 @@ colonial_negotiations = {
 		modifier = {
 			factor = 25
 			naval_logistics = 1 
-		}
-		modifier = {
-			factor = 10
-			any_greater_power = {
-				invention = colonial_negotiations
-				}
-			}
-		modifier = {
-			factor = 10
-			any_neighbor_country = {
-				invention = colonial_negotiations
-			}
 		}
 	}
 	effect = {
