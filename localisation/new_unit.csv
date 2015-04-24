@@ -1,0 +1,45 @@
+battleship;Carrier;;;;;;;;;;;;;x
+clipper_transport;Transport;;;;;;;;;;;;;x
+commerce_raider;Destroyer;;;;;;;;;;;;;x
+cruiser;Battleship;Croiseur;Kreuzer;;Crucero;;;;;;;;;x
+dreadnought;Sea Fort;;;;;;;;;;;;;x
+frigate;Frigate;;;;;;;;;;;;;x
+ironclad;Cruiser;;;;;;;;;;;;;x
+manowar;Ironclad;;;;;;;;;;;;;x
+monitor;Submarine;;;;;;;;;;;;;x
+steam_transport;Steam Transport;;;;;;;;;;;;;x
+artillery;Tank;;;;;;;;;;;;;x
+cavalry;Jet;;;;;;;;;;;;;x
+cuirassier;Helicopter;;;;;;;;;;;;;x
+dragoon;Plane;;;;;;;;;;;;;x
+engineer;Support Fire;;;;;;;;;;;;;x
+hussar;Missile;;;;;;;;;;;;;x
+plane;Air Fort;;;;;;;;;;;;;x
+tank;Bomber;;;;;;;;;;;;;x
+infantry;Infantry;Fantassin;Infanterie;;Infantería;;;;;;;;;x;;;;
+guard;Guard;Garde;Garde;;Guardia;;;;;;;;;x;;;;
+irregular;Irregular;Milicien;Freischärler;;Irregulares;;;;;;;;;x;;;;
+army_base;Armies;Armées;Armeen;;Ejércitos;;;;;;;;;x;;;;
+navy_base;Navies;Flottes;Flotten;;Flotas;;;;;;;;;x;;;;
+army_base_short;(A);(A);(A);;(E);;;;;;;;;x;;;;
+navy_base_short;(N);(F);(F);;(F);;;;;;;;;x;;;;
+infantry_short;Inf;Inf.;Inf;;Inf;;;;;;;;;x;;;;
+cavalry_short;Jet;Cav.;Kav;;Cab;;;;;;;;;x;;;;
+cuirassier_short;Hel;Cuir.;Kür;;Cor;;;;;;;;;x;;;;
+dragoon_short;Air;Dra.;Dra;;Dra;;;;;;;;;x;;;;
+engineer_short;Eng;Sap.;Pio;;Ing;;;;;;;;;x;;;;
+guard_short;Gua;Gar.;Gar;;Gua;;;;;;;;;x;;;;
+irregular_short;Irr;Mil.;Frsch;;Irr;;;;;;;;;x;;;;
+hussar_short;Mia;Hus.;Hus;;Hús;;;;;;;;;x;;;;
+artillery_short;Arm;Arti.;Art;;Art;;;;;;;;;x;;;;
+tank_short;Bom;Blin.;Pz;;Aco;;;;;;;;;x;;;;
+plane_short;Air;Av.;Luft;;Avi;;;;;;;;;x;;;;
+commerce_raider_short;DE;CR;HZ;;Cru Aux;;;;;;;;;x;;;;
+cruiser_short;BA;Cr.;KR;;Cru Pes;;;;;;;;;x;;;;
+frigate_short;FR;Fr.;FR;;Fra;;;;;;;;;x;;;;
+manowar_short;IC;MW.;MW;;Buq Gue;;;;;;;;;x;;;;
+ironclad_short;CR;Cuir.;IC;;Aco Iro;;;;;;;;;x;;;;
+dreadnought_short;SF;Dread.;DN;;Aco Dre;;;;;;;;;x;;;;
+clipper_transport_short;CT;Tr.Vl;CT;;Cli Tra;;;;;;;;;x;;;;
+steam_transport_short;ST;Tr.Vp;DT;;Vap;;;;;;;;;x;;;;
+monitor_short;SU;Mon.;MO;;Mon;;;;;;;;;x;;;;
