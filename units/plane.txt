@@ -10,9 +10,9 @@ plane = {
 	#Core Abilities
 	priority = 45
 	max_strength = 3
-	default_organisation = 30
-	maximum_speed = 5.00
-	weighted_value = 10.0
+	default_organisation = 120
+	maximum_speed = 12.00
+	weighted_value = 30.0
 
 
 	#Building Costs
@@ -27,18 +27,18 @@ plane = {
 	
 	supply_consumption = 1.0
 	supply_cost = {
-		aeroplanes = 0.1
-		small_arms = 0.1
-		canned_food = 0.04
-		fuel = 0.2
+		aeroplanes = 0.4
+		small_arms = 0.4
+		canned_food = 0.16
+		fuel = 0.8
 	}
 	
 
 	#Land Abilties
 	reconnaissance = 4
-	attack = 1
-	defence = 15
+	attack = 25
+	defence = 25
 	discipline = 1.0
-	support = 2
-	maneuver = 2
+	support = 6
+	maneuver = 3
 }

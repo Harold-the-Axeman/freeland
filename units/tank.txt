@@ -2,44 +2,44 @@ tank = {
 	icon = 20
 	
 	type = land
-	sprite = Tank
+	sprite = Plane
 	active = no
-	unit_type = special
-	floating_flag = yes
+	unit_type = cavalry
+	floating_flag = no
 	
 	#Core Abilities
-	priority = 50
+	priority = 45
 	max_strength = 3
-	default_organisation = 40
-	maximum_speed = 4.00
+	default_organisation = 30
+	maximum_speed = 8.00
 	weighted_value = 10.0
 
 
 	#Building Costs
 	build_time = 120
 	build_cost = {
-		barrels = 10
-		artillery = 10
+		aeroplanes = 10
+		small_arms = 10
 		canned_food = 10
+		wine = 10
 		fuel = 5
 	}
 	
 	supply_consumption = 1.0
 	supply_cost = {
-		barrels = 0.15
-		artillery = 0.1
-		canned_food = 0.1 #0.04
-		fuel = 0.2
+		aeroplanes = 0.2
+		small_arms = 0.2
+		canned_food = 0.08
+		fuel = 0.4
 	}
 	
 
 	#Land Abilties
-	reconnaissance = 0
-	attack = 16
-	defence = 6
-	discipline = 1
-	support = 0.0
-	maneuver = 1
-	siege = 1
-	
+	reconnaissance = 2
+	attack = 19
+	defence = 9
+	discipline = 1.0
+	support = 2
+	maneuver = 2
+    siege = 4
 }

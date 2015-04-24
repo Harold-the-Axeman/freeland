@@ -106,7 +106,7 @@ point_defense_system = {
 	cost = 21000
 	unciv_military = yes
 	engineer = {
-		support = 0.25
+		support = 0.75
 	} 
 	army_base = {
 		supply_consumption = 0.20
@@ -161,7 +161,7 @@ deep_defense_system = {
 	cost = 28000
 	unciv_military = yes
 	engineer = {
-		support = 0.25
+		support = 0.75
 	} 
 	army_base = {
 		supply_consumption = 0.20
@@ -581,7 +581,6 @@ bronze_muzzle_loaded_artillery = {
 	year = 1836
 	cost = 7000
 	unciv_military = yes
-	activate_unit = artillery
 	
 	ai_chance = {
 		factor = 1.05
@@ -621,11 +620,6 @@ iron_muzzle_loaded_artillery = {
 	year = 1836
 	cost = 14000
 	unciv_military = yes
-	artillery = {
-		attack = 0.25
-		support = 0.5
-		supply_consumption = 0.15
-	}
 	
 	ai_chance = {
 		factor = 1.05
@@ -665,11 +659,7 @@ iron_breech_loaded_artillery = {
 	year = 1850
 	cost = 21000
 	unciv_military = yes
-	artillery = {
-		attack = 0.25
-		support = 0.5
-		supply_consumption = 0.3
-	}
+
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -708,11 +698,7 @@ steel_breech_loaded_artillery = {
 	year = 1870
 	cost = 28000
 	unciv_military = yes
-	artillery = {
-		attack = 0.5
-		support = 0.5
-		supply_consumption = 0.3
-	}
+
 	
 	ai_chance = {
 		factor = 1.05
@@ -752,12 +738,7 @@ indirect_artillery_fire = {
 	year = 1900
 	cost = 35000
 	unciv_military = yes
-	artillery = {
-		attack = 0.5
-		defence = 2
-		support = 1
-		supply_consumption = 0.3
-	}
+
 	
 	ai_chance = {
 		factor = 1.05
@@ -797,12 +778,6 @@ heavy_armament_dunno = {
 	year = 1919
 	cost = 42000
 	unciv_military = yes
-	artillery = {
-		attack = 0.5
-		defence = 2
-		support = 1
-		supply_consumption = 0.3
-	}
 	
 	ai_chance = {
 		factor = 1.05
