@@ -102,19 +102,19 @@ army = {
 	location = 726
 	regiment = {
 		name= "1.1. Kavalleriedivision"
-		type = cuirassier
+		type = infantry
 		home = 619
 	}
 
 	regiment = {
 		name= "2.1. Kavalleriedivision"
-		type = cuirassier
+		type = infantry
 		home = 639
 	}
 
 	regiment = {
 		name= "3.1. Kavalleriedivision"
-		type = cuirassier
+		type = infantry
 		home = 631
 	}
 
@@ -144,7 +144,7 @@ army = {
 
 	regiment = {
 		name= "3.3. Infanteriedivision"
-		type = artillery
+		type = infantry
 		home = 728
 	}
 }
@@ -276,19 +276,19 @@ army = {
 	location = 641
 	regiment = {
 		name= "1.2. Kavalleriedivision"
-		type = cuirassier
+		type = infantry
 		home = 622
 	}
 
 	regiment = {
 		name= "2.2. Kavalleriedivision"
-		type = cuirassier
+		type = infantry
 		home = 641
 	}
 
 	regiment = {
 		name= "3.2. Kavalleriedivision"
-		type = cuirassier
+		type = infantry
 		home = 626
 	}
 

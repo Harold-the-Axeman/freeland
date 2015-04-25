@@ -278,7 +278,7 @@ army = {
 
 	regiment = {
 		name= "I. Pionierbrigade"
-		type = engineer
+		type = infantry
 		home = 577
 	}
 
@@ -302,7 +302,7 @@ army = {
 
 	regiment = {
 		name= "I. Artilleriebrigade"
-		type = artillery
+		type = infantry
 		home = 584
 	}
 
@@ -331,7 +331,7 @@ army = {
 
 	regiment = {
 		name= "II. Pionierbrigade"
-		type = engineer
+		type = infantry
 		home = 684
 	}
 
@@ -355,7 +355,7 @@ army = {
 
 	regiment = {
 		name= "II. Artilleriebrigade"
-		type = artillery
+		type = infantry
 		home = 685
 	}
 
@@ -384,7 +384,7 @@ army = {
 
 	regiment = {
 		name= "III. Pionierbrigade"
-		type = engineer
+		type = infantry
 		home = 693
 	}
 
@@ -408,7 +408,7 @@ army = {
 
 	regiment = {
 		name= "III. Artilleriebrigade"
-		type = artillery
+		type = infantry
 		home = 698
 	}
 
@@ -437,7 +437,7 @@ army = {
 
 	regiment = {
 		name= "IV. Pionierbrigade"
-		type = engineer
+		type = infantry
 		home = 680
 	}
 
@@ -455,7 +455,7 @@ army = {
 
 	regiment = {
 		name= "IV. Artilleriebrigade"
-		type = artillery
+		type = infantry
 		home = 578
 	}
 
@@ -512,61 +512,61 @@ army = {
 	location = 546
 	regiment = {
 		name= "I. Kavalleriebrigade"
-		type = cuirassier
+		type = infantry
 		home = 552
 	}
 
 	regiment = {
 		name= "II. Kavalleriebrigade"
-		type = cuirassier
+		type = infantry
 		home = 549
 	}
 
 	regiment = {
 		name= "III. Kavalleriebrigade"
-		type = cuirassier
+		type = infantry
 		home = 687
 	}
 
 	regiment = {
 		name= "IV. Kavalleriebrigade"
-		type = cuirassier
+		type = infantry
 		home = 681
 	}
 
 	regiment = {
 		name= "V. Kavalleriebrigade"
-		type = cuirassier
+		type = infantry
 		home = 550
 	}
 
 	regiment = {
 		name= "VI. Kavalleriebrigade"
-		type = dragoon
+		type = infantry
 		home = 551
 	}
 
 	regiment = {
 		name= "VII. Kavalleriebrigade"
-		type = dragoon
+		type = infantry
 		home = 699
 	}
 
 	regiment = {
 		name= "VIII. Kavalleriebrigade"
-		type = dragoon
+		type = infantry
 		home = 699
 	}
 
 	regiment = {
 		name= "IX. Kavalleriebrigade"
-		type = dragoon
+		type = infantry
 		home = 700
 	}
 
 	regiment = {
 		name= "X. Kavalleriebrigade"
-		type = dragoon
+		type = infantry
 		home = 692
 	}
 }
@@ -583,13 +583,13 @@ army = {
 	
 	regiment = {
 		name= "XI. Kavalleriebrigade"
-		type = dragoon
+		type = infantry
 		home = 701
 	}
 
 	regiment = {
 		name = "V. Artilleriebrigade"
-		type = artillery
+		type = infantry
 		home = 701
 	}
 }

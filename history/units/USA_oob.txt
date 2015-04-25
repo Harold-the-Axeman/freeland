@@ -60,23 +60,23 @@ COL = {				#Columbia if released
 }
 
 army = {
-	name = "US Dragoons"
+	name = "US infantrys"
 	location = 199
 	regiment = {
-		name= "1st Cavalry Regiment"
-		type = dragoon
+		name= "1st irregular Regiment"
+		type = infantry
 		home = 223
 	}
 
 	regiment = {
-		name= "2nd Cavalry Regiment"
-		type = dragoon
+		name= "2nd irregular Regiment"
+		type = infantry
 		home = 241
 	}
 
 	regiment = {
-		name= "3rd Cavalry Regiment"
-		type = dragoon
+		name= "3rd irregular Regiment"
+		type = infantry
 		home = 205
 	}
 
@@ -104,8 +104,8 @@ army = {
 	}
 
 	regiment = {
-		name= "1st Regiment of Artillery"
-		type = artillery
+		name= "1st Regiment of infantry"
+		type = infantry
 		home = 195
 	}
 
@@ -133,8 +133,8 @@ army = {
 	}
 
 	regiment = {
-		name= "2nd Regiment of Artillery"
-		type = artillery
+		name= "2nd Regiment of infantry"
+		type = infantry
 		home = 234
 	}
 
@@ -168,17 +168,17 @@ navy = {
 	location = 222
 	ship = {
 		name= "Franklin"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
 		name= "Pennsylvania"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
 		name= "Washington"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
@@ -198,7 +198,7 @@ navy = {
 	location = 248
 	ship = {
 		name= "Ohio"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
@@ -258,17 +258,17 @@ navy = {
 	location = 247
 	ship = {
 		name= "Alabama"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
 		name= "Vermont"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
 		name= "Virginia"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
@@ -283,22 +283,22 @@ navy = {
 	location = 214
 	ship = {
 		name= "Columbus"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
 		name= "Delaware"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
 		name= "New York"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
 		name= "North Carolina"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
