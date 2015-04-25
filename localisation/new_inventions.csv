@@ -10,3 +10,27 @@ jet2;Modern Jet;;;;;;;;;;;;;x
 air_fort1;Air Fort Speed;;;;;;;;;;;;;x
 air_fort2;Air Fort Fire and Armor;;;;;;;;;;;;;x
 air_fort3;Air Fort Range;;;;;;;;;;;;;x
+cruiser1;Cruiser;;;;;;;;;;;;;x
+cruiser2;Cruiser Armor I;;;;;;;;;;;;;x
+cruiser3;Cruiser Armor II;;;;;;;;;;;;;x
+cruiser4;Cruiser Attack;;;;;;;;;;;;;x
+battleship1;Battleship;;;;;;;;;;;;;x
+battleship2;Battleship Armor I;;;;;;;;;;;;;x
+battleship3;Battleship Armor II;;;;;;;;;;;;;x
+battleship4;Battleship Armor III;;;;;;;;;;;;;x
+destroyer1;Destroyer;;;;;;;;;;;;;x
+destroyer2;Destroyer Armor I;;;;;;;;;;;;;x
+destroyer3;Destroyer Armor II;;;;;;;;;;;;;x
+destroyer4;Destroyer Attack;;;;;;;;;;;;;x
+carrier1;Carrier;;;;;;;;;;;;;x
+carrier2;Carrier Armor I;;;;;;;;;;;;;x
+carrier3;Carrier Armor II;;;;;;;;;;;;;x
+carrier4;Carrier Armor III;;;;;;;;;;;;;x
+submarine1;Submarine;;;;;;;;;;;;;x
+submarine2;Submarine Armor;;;;;;;;;;;;;x
+submarine3;Submarine Attack I;;;;;;;;;;;;;x
+submarine4;Submarine Attack II;;;;;;;;;;;;;x
+sea1;Sea Fort;;;;;;;;;;;;;x
+sea2;Sea Fort Armor I;;;;;;;;;;;;;x
+sea3;Sea Fort Armor II;;;;;;;;;;;;;x
+sea4;Sea Fort Armor III;;;;;;;;;;;;;x

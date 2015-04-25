@@ -621,6 +621,7 @@ iron_steamers = {
 	year = 1860
 	cost = 21000
 	unciv_military = yes
+	activate_unit = manowar
 	navy_base = { maximum_speed = 2 }
 	ai_chance = {
 		factor = 1

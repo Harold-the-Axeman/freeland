@@ -1,0 +1,245 @@
+## Cruiser  1870
+cruiser1 = {
+	limit = { main_armament = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		activate_unit = ironclad  
+	}
+}
+
+cruiser2 = {
+	limit = { carrier_battle_group = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		hull = 5  
+	}
+}
+
+cruiser3 = {
+	limit = { helicopter_carrier = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		hull = 5 
+	}
+}
+
+cruiser4 = {
+	limit = { vertical_take_off_and_landing = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		torpedo_attack = 10 
+	}
+}
+
+## Battleship  1890
+battleship1 = {
+	limit = { steel_steamers = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		activate_unit = cruiser 
+	}
+}
+
+battleship2 = {
+	limit = { corvettes = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		hull = 5  
+	}
+}
+
+battleship3 = {
+	limit = { frigates = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		hull = 5 
+	}
+}
+
+battleship4 = {
+	limit = { destroyers = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		hull = 5
+	}
+}
+
+## Destroyer 1900
+destroyer1 = {
+	limit = { advanced_naval_design = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		activate_unit = commerce_raider
+	}
+}
+
+destroyer2 = {
+	limit = { carrier_battle_group = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		hull = 5  
+	}
+}
+
+destroyer3 = {
+	limit = { helicopter_carrier = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		hull = 5 
+	}
+}
+
+destroyer4 = {
+	limit = { vertical_take_off_and_landing = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		torpedo_attack = 10
+	}
+}
+
+## Carrier 1920
+carrier1 = {
+	limit = { modern_shipbuilding = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		activate_unit = battleship 
+	}
+}
+
+carrier2 = {
+	limit = { corvettes = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		hull = 5  
+	}
+}
+
+carrier3 = {
+	limit = { frigates = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		hull = 5 
+	}
+}
+
+carrier4 = {
+	limit = { destroyers = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		hull = 5
+	}
+}
+
+## Submarine 1920
+submarine1 = {
+	limit = { ww2_command_system = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		activate_unit = monitor 
+	}
+}
+
+submarine2 = {
+	limit = { anti_submarine_warfare = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		hull = 10  
+	}
+}
+
+submarine3 = {
+	limit = { missile_guidance_system = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		torpedo_attack = 10
+	}
+}
+
+submarine4 = {
+	limit = { naval_sea_systems_command = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		torpedo_attack = 5
+	}
+}
+
+## Sea Fort 2000
+sea1 = {
+	limit = { marine_radar = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		activate_unit = dreadnought 
+	}
+}
+
+sea2 = {
+	limit = { supercarrier_battle_group = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		hull = 10  
+	}
+}
+
+sea3 = {
+	limit = { nuclear_submarine = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		hull = 10  
+	}
+}
+
+sea4 = {
+	limit = { aircraft_carrier = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		hull = 10  
+	}
+}
