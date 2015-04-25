@@ -15,7 +15,10 @@ cruiser2 = {
 		base = 5
 	}
 	effect = {
-		hull = 5  
+		ironclad  = {
+			hull = 3
+			gun_power = -1 
+		}
 	}
 }
 
@@ -25,7 +28,9 @@ cruiser3 = {
 		base = 5
 	}
 	effect = {
-		hull = 5 
+		ironclad  = {
+			hull = 5 
+		}
 	}
 }
 
@@ -35,7 +40,9 @@ cruiser4 = {
 		base = 5
 	}
 	effect = {
-		torpedo_attack = 10 
+		ironclad  = {
+			torpedo_attack = 10  
+		}
 	}
 }
 
@@ -56,7 +63,10 @@ battleship2 = {
 		base = 5
 	}
 	effect = {
-		hull = 5  
+		cruiser  = {
+			hull = 3
+			gun_power = -1  
+		} 
 	}
 }
 
@@ -66,7 +76,9 @@ battleship3 = {
 		base = 5
 	}
 	effect = {
-		hull = 5 
+		cruiser  = {
+			hull = 5 
+		} 
 	}
 }
 
@@ -76,7 +88,9 @@ battleship4 = {
 		base = 5
 	}
 	effect = {
-		hull = 5
+		cruiser  = {
+			hull = 5 
+		}
 	}
 }
 
@@ -97,7 +111,10 @@ destroyer2 = {
 		base = 5
 	}
 	effect = {
-		hull = 5  
+		commerce_raider  = {
+			hull = 3
+			gun_power = -1 
+		}  
 	}
 }
 
@@ -107,7 +124,9 @@ destroyer3 = {
 		base = 5
 	}
 	effect = {
-		hull = 5 
+		commerce_raider  = {
+			hull = 5 
+		} 
 	}
 }
 
@@ -117,7 +136,9 @@ destroyer4 = {
 		base = 5
 	}
 	effect = {
-		torpedo_attack = 10
+		commerce_raider  = {
+			torpedo_attack = 10
+		}
 	}
 }
 
@@ -138,7 +159,10 @@ carrier2 = {
 		base = 5
 	}
 	effect = {
-		hull = 5  
+		battleship  = {
+			hull = 3
+			gun_power = -1 
+		} 
 	}
 }
 
@@ -148,7 +172,9 @@ carrier3 = {
 		base = 5
 	}
 	effect = {
-		hull = 5 
+		battleship  = {
+			hull = 5 
+		} 
 	}
 }
 
@@ -158,7 +184,9 @@ carrier4 = {
 		base = 5
 	}
 	effect = {
-		hull = 5
+		battleship  = {
+			hull = 5 
+		} 
 	}
 }
 
@@ -179,7 +207,10 @@ submarine2 = {
 		base = 5
 	}
 	effect = {
-		hull = 10  
+		monitor  = {
+			hull = 3
+			gun_power = -1 
+		}  
 	}
 }
 
@@ -189,7 +220,9 @@ submarine3 = {
 		base = 5
 	}
 	effect = {
-		torpedo_attack = 10
+		monitor  = {
+			torpedo_attack = 10
+		} 
 	}
 }
 
@@ -199,7 +232,9 @@ submarine4 = {
 		base = 5
 	}
 	effect = {
-		torpedo_attack = 5
+		monitor  = {
+			torpedo_attack = 5
+		} 
 	}
 }
 
@@ -220,7 +255,9 @@ sea2 = {
 		base = 5
 	}
 	effect = {
-		hull = 10  
+		dreadnought   = {
+			hull = 8 
+		}  
 	}
 }
 
@@ -230,7 +267,9 @@ sea3 = {
 		base = 5
 	}
 	effect = {
-		hull = 10  
+		dreadnought   = {
+			hull = 10 
+		} 
 	}
 }
 
@@ -240,6 +279,8 @@ sea4 = {
 		base = 5
 	}
 	effect = {
-		hull = 10  
+		dreadnought   = {
+			gun_power = 9 
+		} 
 	}
 }

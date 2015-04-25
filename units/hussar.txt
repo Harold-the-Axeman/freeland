@@ -5,13 +5,14 @@ hussar = {
 	sprite = Artillery
 	active = no
 	unit_type = support
+    primary_culture = yes
 	floating_flag = no
 
 	#Core Abilities
 	priority = 20
 	max_strength = 3
 	default_organisation = 90
-	maximum_speed = 12.00
+	maximum_speed = 8.00
 	weighted_value = 20.0
 
 

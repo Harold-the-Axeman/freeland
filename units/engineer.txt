@@ -5,7 +5,8 @@ engineer = {
 	sprite = Engineer
 	active = no
 	unit_type = special
-	#Core Abilities
+    primary_culture = yes
+    #Core Abilities
 	priority = 15
 	max_strength = 3
 	default_organisation = 30

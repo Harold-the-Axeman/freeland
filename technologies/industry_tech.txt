@@ -1854,7 +1854,6 @@ early_highway = {
 	year = 1940
 	cost = 56000
 
-	max_railroad = 1
 	
 	ai_chance = {
 		factor = 1.5 #1.1
@@ -1878,7 +1877,6 @@ high_speed_rail = {
 	year = 1960
 	cost = 63000
 
-	max_railroad = 1
 	
 	ai_chance = {
 		factor = 1.5 #1.1
@@ -1902,7 +1900,6 @@ interstate_highway_system = {
 	year = 1980
 	cost = 70000
 
-	max_railroad = 1
 	
 	ai_chance = {
 		factor = 1.5 #1.1

@@ -622,7 +622,7 @@ iron_steamers = {
 	cost = 21000
 	unciv_military = yes
 	activate_unit = manowar
-	navy_base = { maximum_speed = 2 }
+	navy_base = { maximum_speed = 1 }
 	ai_chance = {
 		factor = 1
 		# Land-locked countries don't research this
@@ -698,7 +698,7 @@ steel_steamers = {
 	year = 1880
 	cost = 28000
 	unciv_military = yes
-	navy_base = { maximum_speed = 2 } 
+	navy_base = { maximum_speed = 1 } 
 	ai_chance = {
 		factor = 1
 		# Land-locked countries don't research this
@@ -774,7 +774,7 @@ steam_turbine_ships = {
 	year = 1900
 	cost = 35000
 	unciv_military = yes
-	navy_base = { maximum_speed = 2 } 
+	navy_base = { maximum_speed = 1 } 
 	ai_chance = {
 		factor = 1
 		# Land-locked countries don't research this
@@ -850,7 +850,7 @@ oil_driven_ships = {
 	year = 1919
 	cost = 42000
 	unciv_military = yes
-	navy_base = { maximum_speed = 2 } 
+	navy_base = { maximum_speed = 1 } 
 	ai_chance = {
 		factor = 1
 		# Land-locked countries don't research this
@@ -2875,7 +2875,7 @@ nuclear_submarine = {
 	cost = 70000
 	unciv_military = yes
 
-	navy_base = { maximum_speed = 2 }
+	navy_base = { maximum_speed = 1 }
 
 	ai_chance = {
 		factor = 1
