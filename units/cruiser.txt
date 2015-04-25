@@ -3,47 +3,47 @@ cruiser = {
 	naval_icon = 8
 	
 	type = naval
-	sprite = Cruiser
+	sprite = Battleship
+	unit_type = big_ship
+	capital = yes
 	active = no
-	unit_type = light_ship
 	move_sound = steam_move
 	select_sound = steam_selected
-	colonial_points = 16
+	floating_flag = yes
+	colonial_points = 25
 	
 	#Core Abilities
-	priority = 12
+	priority = 40
 	max_strength = 100
-	default_organisation = 30
+	default_organisation = 55
 	maximum_speed = 12
-	weighted_value = 8.0
-	floating_flag = yes
-	can_build_overseas = yes
+	weighted_value = 50.0
+	can_build_overseas = no
 
 
 	#Building Costs
-	build_time = 240
+	build_time = 360
 	build_cost = {
-		steamer_convoy = 30
-		artillery = 6
-		canned_food = 4
-		fuel = 10
+		steamer_convoy = 80
+		artillery = 20
+		canned_food = 10
+		coal = 25
 	}
 	min_port_level = 4
-	limit_per_port = -1
-	supply_consumption_score = 20
+	limit_per_port = -1 #-1 is unlimited, but it is possible to limit number of ships per port level.
+	supply_consumption_score = 50
 	
 	supply_consumption = 1.0
 	supply_cost = {
-		steamer_convoy = 0.16
-		artillery = 0.1
-		canned_food = 0.2
-		fuel = 1.0
+		steamer_convoy = 3.6
+		artillery = 1.8
+		canned_food = 1.8
+		coal = 7.5
 	}
 	
 	#Naval Abilties
-	hull = 50
-	gun_power = 30
-	fire_range = 0.65
-	evasion = 0.30
-	torpedo_attack = 2
+	hull = 90
+	gun_power = 90
+	fire_range = 0.8
+	evasion = 0
 }
