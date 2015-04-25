@@ -40,6 +40,6 @@ cuirassier = {
 	defence = 20
 	discipline = 1.0
 	support = 0
-	maneuver = 3
+	maneuver = 4
     siege = 4
 }

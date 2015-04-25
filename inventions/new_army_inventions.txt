@@ -1,0 +1,151 @@
+### Missile
+missile1 = {
+	limit = { icbm = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		hussar = {
+			maximum_speed = 3
+			siege = 2
+		}
+	}
+}
+
+missile2 = {
+	limit = { submarine_launched_ballistic_missile = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		hussar = {
+			attack = 10
+			defence = 10
+		}
+	}
+}
+
+### Helicopter
+helicopter1 = {
+	limit = { mechanized_infantry = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		cuirassier = {
+			maximum_speed = 3
+			siege = 2
+			reconnaissance = 2
+		}
+	}
+}
+
+
+helicopter2 = {
+	limit = { special_forces = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		cuirassier = {
+			attack = 10
+			defence = 10
+		}
+	}
+}
+
+### Tank
+modern_tank1 = {
+	limit = { antitank_weapons = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		artillery = {
+			maximum_speed = 3
+			siege = 2
+			default_organisation = 30
+		}
+	}
+}
+
+modern_tank2 = {
+	limit = { main_battle_tank = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		artillery = {
+			attack = 10
+			defence = 6
+		}
+	}
+}
+
+### Jet
+jet1 = {
+	limit = { surface_to_air_missile = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		cavalry = {
+			maximum_speed = 3
+			reconnaissance = 2
+		}
+	}
+}
+
+jet2 = {
+	limit = { third_generation_jet_fighters = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		cavalry = {
+			attack = 10
+			defence = 10
+		}
+	}
+}
+
+
+### Air Fort
+air_fort1 = {
+	limit = { military_gps_system = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		plane = {
+			maximum_speed = 4
+			siege = 2
+			reconnaissance = 2
+		}
+	}
+}
+
+air_fort2 = {
+	limit = { second_generation_tanks = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		plane = {
+			attack = 10
+			defence = 10
+		}
+	}
+}
+
+air_fort3 = {
+	limit = { close_air_support = 1 }
+	chance = {
+		base = 5
+	}
+	effect = {
+		plane = {
+			support = 2
+		}
+	}
+}

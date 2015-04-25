@@ -1442,6 +1442,7 @@ strategic_bomber = {
 		supply_consumption = 0.1
 	}
 	dig_in_cap = 1
+	activate_unit = hussar
 	
 	ai_chance = {
 		factor = 1.01
@@ -1658,6 +1659,7 @@ guerrilla = {
 	unciv_military = yes
 
 	combat_width = -1
+	activate_unit = cuirassier
 
 	ai_chance = {
 		factor = 1.1
@@ -2070,6 +2072,8 @@ second_generation_jet_fighters = {
 	year = 1940
 	cost = 56000
 	unciv_military = yes
+
+	activate_unit = cavalry
 	
 	army_base = {
 		default_organisation = 5
@@ -2222,6 +2226,8 @@ close_air_support = {
 		default_organisation = 5
 		supply_consumption = 0.1
 	}
+
+	activate_unit = plane
 
 	ai_chance = {
 		factor = 1.1

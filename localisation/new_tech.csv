@@ -1,126 +1,126 @@
-post_war_radar;Post War Radar;;;;;;;x
-post_war_radar;Post War Radar;;;;;;;x
-strategic_bomber;Strategic Bomber;;;;;;;x
-icmb;ICMB;;;;;;;x
-submarine_launched_ballistic_missile;Submarine and Missile;;;;;;;x
-military_gps_system;GPS System;;;;;;;x
-infantry;Infantry;;;;;;;x
-guerrilla;Guerrilla;;;;;;;x
-mechanized_infantry;Mechanized Infantry;;;;;;;x
-special_forces;Special Forces;;;;;;;x
-modern_rifles;Modern Rifles;;;;;;;x
-heavy_tanks;Heavy Tanks;;;;;;;x
-antitank_weapons;Antitank Weapons;;;;;;;x
-main_battle_tank;Main Battle Tank;;;;;;;x
-missile_armed_tanks;Missile Armed Tanks;;;;;;;x
-second_generation_tanks;Second Generation Tanks;;;;;;;x
-first_generation_subsonic_jet_fighters;Jet Fighters;;;;;;;x
-second_generation_jet_fighters;Second Generation Jet Fighters;;;;;;;x
-surface_to_air_missile;Surface To Air Missile;;;;;;;x
-third_generation_jet_fighters;Third Generation Jet Fighters;;;;;;;x
-close_air_support;Close Air Support;;;;;;;x
-cold_war_doctrine;Cold War Doctrine;;;;;;;x
-proxy_war;Proxy War;;;;;;;x
-mutual_assured_destruction;Mutual Assured Destruction;;;;;;;x
-assymetric_warfare;Assymetric Warfare;;;;;;;x
-arms_race_doctrine;Arms Race Doctrine;;;;;;;x
-international_financial_institutions;International Financial Institutions;;;;;;;x
-multilateral_development_bank;Multilateral Development Bank;;;;;;;x
-bank_for_international_settlements;Bank For International Settlements;;;;;;;x
-central_clearing;Central Clearing;;;;;;;x
-credit_rating_institutions;Credit Rating Institutions;;;;;;;x
-gold_standard;Gold Standard;;;;;;;x
-bretton_system;Bretton System;;;;;;;x
-dollar_standard;Mark Standard;;;;;;;x
-flexible_exchange_rates;Flexible Exchange Rates;;;;;;;x
-washington_consensus;Berlin Consensus;;;;;;;x
-late_keynesian_economics;Keynesian Economics;;;;;;;x
-new_growth_theory;New Growth Theory;;;;;;;x
-new_synthesis;New Synthesis;;;;;;;x
-austrian_school;Austrian School;;;;;;;x
-new_keynesian;New Keynesian;;;;;;;x
-marshall_plan;Marshall Plan;;;;;;;x
-trust_busting;Trust Busting;;;;;;;x
-third_way;Third Way;;;;;;;x
-capitalism;Capitalism;;;;;;;x
-economic_globalization;Economic Globalization;;;;;;;x
-late_fordism;Late Fordism;;;;;;;x
-modern_scientific_management;Modern Scientific Management;;;;;;;x
-toyotism;Toyotism;;;;;;;x
-vanguard_method;Vanguard Method;;;;;;;x
-lean_manufacturing;Lean Manufacturing;;;;;;;x
-quantum_physics;Quantum Physics;;;;;;;x
-programming_language;Programming Language;;;;;;;x
-information_theory;Information Theory;;;;;;;x
-medical_science;Medical Science;;;;;;;x
-big_science;Big Science;;;;;;;x
-radio_network;Radio Network;;;;;;;x
-public_switched_telephone_network;Public Switched Telephone Network;;;;;;;x
-pstn_network;Pstn Network;;;;;;;x
-telephone_exchange;Telephone Exchange;;;;;;;x
-early_networks;Networks;;;;;;;x
-compulsory_primary_education;Compulsory Primary Education;;;;;;;x
-compulsory_secondary_education;Compulsory Secondary Education;;;;;;;x
-tripartite_system;Tripartite System;;;;;;;x
-comprehensive_education;Comprehensive Education;;;;;;;x
-preschool_education;Preschool Education;;;;;;;x
-containment;Containment;;;;;;;x
-cold_war;Cold War;;;;;;;x
-detente;Detente;;;;;;;x
-second_cold_war;Second Cold War;;;;;;;x
-colour_revolution;Colour Revolution;;;;;;;x
-decolonization;Decolonization;;;;;;;x
-wars_of_national_liberation;Wars Of National Liberation;;;;;;;x
-seventies_subcultures;Seventies Subcultures;;;;;;;x
-neoliberalism;Neoliberalism;;;;;;;x
-market_communism;Market Communism;;;;;;;x
-fossil_fuel_power;Fossil Fuel Power;;;;;;;x
-oil_well;Oil Well;;;;;;;x
-nuclear_power;Nuclear Power;;;;;;;x
-liquefied_natural_gas;Liquefied Natural Gas;;;;;;;x
-offshore_drilling;Offshore Drilling;;;;;;;x
-radio;Radio;;;;;;;x
-television;Television;;;;;;;x
-semiconductor;Semiconductor;;;;;;;x
-microprocessor;Microprocessor;;;;;;;x
-microcomputer;Microcomputer;;;;;;;x
-intensive_farming;Intensive Farming;;;;;;;x
-mineral_processing;Mineral Processing;;;;;;;x
-heavy_mining;Heavy Mining;;;;;;;x
-deep_mining;Deep Mining;;;;;;;x
-green_revolution;Green Revolution;;;;;;;x
-modern_roads;Modern Roads;;;;;;;x
-early_highway;Early Highway;;;;;;;x
-high_speed_rail;High Speed Rail;;;;;;;x
-interstate_highway_system;Interstate Highway System;;;;;;;x
-early_backbone;Early Backbone;;;;;;;x
-modern_electricity;Modern Electricity;;;;;;;x
-petrochemical_industry;Petrochemical Industry;;;;;;;x
-plastic_industry;Plastic Industry;;;;;;;x
-modern_medicine;Modern Medicine;;;;;;;x
-molecular_biology;Molecular Biology;;;;;;;x
-modern_shipyard;Modern Shipyard;;;;;;;x
-artificial_island;Artificial Island;;;;;;;x
-anti_ship_missiles;Anti Ship Missiles;;;;;;;x
-submarine_base;Submarine Base;;;;;;;x
-marine_radar;Marine Radar;;;;;;;x
-modern_shipbuilding;Modern Shipbuilding;;;;;;;x
-corvettes;Corvettes;;;;;;;x
-frigates;Frigates;;;;;;;x
-destroyers;Destroyers;;;;;;;x
-nuclear_submarine;Nuclear Submarine;;;;;;;x
-ww2_aircraft_carrier;WW2 AircraftCarrier;;;;;;;x
-carrier_battle_group;Carrier Battle Group;;;;;;;x
-helicopter_carrier;Helicopter Carrier;;;;;;;x
-vertical_take_off_and_landing;Vertical Take Off And Landing;;;;;;;x
-aircraft_carrier;Aircraft Carrier;;;;;;;x
-ww2_command_system;WW2 Command System;;;;;;;x
-anti_submarine_warfare;Anti Submarine Warfare;;;;;;;x
-missile_guidance_system;Missile Guidance System;;;;;;;x
-naval_sea_systems_command;Naval Sea Systems Command;;;;;;;x
-cruise_missile;Cruise Missile;;;;;;;x
-command_of_the_sea;Command Of The Sea;;;;;;;x
-sea_denial_strategy;Sea Denial Strategy;;;;;;;x
-power_projection;Power Projection;;;;;;;x
-green_blue_water_navies;Green Blue Water Navies;;;;;;;x
-supercarrier_battle_group;Supercarrier Battle Group;;;;;;;x
+post_war_radar;Post War Radar;;;;;;;;;;;;;x
+post_war_radar;Post War Radar;;;;;;;;;;;;;x
+strategic_bomber;Strategic Bomber;;;;;;;;;;;;;x
+icbm;ICBM;;;;;;;;;;;;;x
+submarine_launched_ballistic_missile;Submarine and Missile;;;;;;;;;;;;;x
+military_gps_system;GPS System;;;;;;;;;;;;;x
+infantry;Infantry;;;;;;;;;;;;;x
+guerrilla;Guerrilla;;;;;;;;;;;;;x
+mechanized_infantry;Mechanized Infantry;;;;;;;;;;;;;x
+special_forces;Special Forces;;;;;;;;;;;;;x
+modern_rifles;Modern Rifles;;;;;;;;;;;;;x
+heavy_tanks;Heavy Tanks;;;;;;;;;;;;;x
+antitank_weapons;Antitank Weapons;;;;;;;;;;;;;x
+main_battle_tank;Main Battle Tank;;;;;;;;;;;;;x
+missile_armed_tanks;Missile Armed Tanks;;;;;;;;;;;;;x
+second_generation_tanks;Second Generation Tanks;;;;;;;;;;;;;x
+first_generation_subsonic_jet_fighters;Jet Fighters;;;;;;;;;;;;;x
+second_generation_jet_fighters;Second Generation Jet Fighters;;;;;;;;;;;;;x
+surface_to_air_missile;Surface To Air Missile;;;;;;;;;;;;;x
+third_generation_jet_fighters;Third Generation Jet Fighters;;;;;;;;;;;;;x
+close_air_support;Close Air Support;;;;;;;;;;;;;x
+cold_war_doctrine;Cold War Doctrine;;;;;;;;;;;;;x
+proxy_war;Proxy War;;;;;;;;;;;;;x
+mutual_assured_destruction;Mutual Assured Destruction;;;;;;;;;;;;;x
+assymetric_warfare;Assymetric Warfare;;;;;;;;;;;;;x
+arms_race_doctrine;Arms Race Doctrine;;;;;;;;;;;;;x
+international_financial_institutions;International Financial Institutions;;;;;;;;;;;;;x
+multilateral_development_bank;Multilateral Development Bank;;;;;;;;;;;;;x
+bank_for_international_settlements;Bank For International Settlements;;;;;;;;;;;;;x
+central_clearing;Central Clearing;;;;;;;;;;;;;x
+credit_rating_institutions;Credit Rating Institutions;;;;;;;;;;;;;x
+gold_standard;Gold Standard;;;;;;;;;;;;;x
+bretton_system;Bretton System;;;;;;;;;;;;;x
+dollar_standard;Mark Standard;;;;;;;;;;;;;x
+flexible_exchange_rates;Flexible Exchange Rates;;;;;;;;;;;;;x
+washington_consensus;Berlin Consensus;;;;;;;;;;;;;x
+late_keynesian_economics;Keynesian Economics;;;;;;;;;;;;;x
+new_growth_theory;New Growth Theory;;;;;;;;;;;;;x
+new_synthesis;New Synthesis;;;;;;;;;;;;;x
+austrian_school;Austrian School;;;;;;;;;;;;;x
+new_keynesian;New Keynesian;;;;;;;;;;;;;x
+marshall_plan;Marshall Plan;;;;;;;;;;;;;x
+trust_busting;Trust Busting;;;;;;;;;;;;;x
+third_way;Third Way;;;;;;;;;;;;;x
+capitalism;Capitalism;;;;;;;;;;;;;x
+economic_globalization;Economic Globalization;;;;;;;;;;;;;x
+late_fordism;Late Fordism;;;;;;;;;;;;;x
+modern_scientific_management;Modern Scientific Management;;;;;;;;;;;;;x
+toyotism;Toyotism;;;;;;;;;;;;;x
+vanguard_method;Vanguard Method;;;;;;;;;;;;;x
+lean_manufacturing;Lean Manufacturing;;;;;;;;;;;;;x
+quantum_physics;Quantum Physics;;;;;;;;;;;;;x
+programming_language;Programming Language;;;;;;;;;;;;;x
+information_theory;Information Theory;;;;;;;;;;;;;x
+medical_science;Medical Science;;;;;;;;;;;;;x
+big_science;Big Science;;;;;;;;;;;;;x
+radio_network;Radio Network;;;;;;;;;;;;;x
+public_switched_telephone_network;Public Switched Telephone Network;;;;;;;;;;;;;x
+pstn_network;Pstn Network;;;;;;;;;;;;;x
+telephone_exchange;Telephone Exchange;;;;;;;;;;;;;x
+early_networks;Networks;;;;;;;;;;;;;x
+compulsory_primary_education;Compulsory Primary Education;;;;;;;;;;;;;x
+compulsory_secondary_education;Compulsory Secondary Education;;;;;;;;;;;;;x
+tripartite_system;Tripartite System;;;;;;;;;;;;;x
+comprehensive_education;Comprehensive Education;;;;;;;;;;;;;x
+preschool_education;Preschool Education;;;;;;;;;;;;;x
+containment;Containment;;;;;;;;;;;;;x
+cold_war;Cold War;;;;;;;;;;;;;x
+detente;Detente;;;;;;;;;;;;;x
+second_cold_war;Second Cold War;;;;;;;;;;;;;x
+colour_revolution;Colour Revolution;;;;;;;;;;;;;x
+decolonization;Decolonization;;;;;;;;;;;;;x
+wars_of_national_liberation;Wars Of National Liberation;;;;;;;;;;;;;x
+seventies_subcultures;Seventies Subcultures;;;;;;;;;;;;;x
+neoliberalism;Neoliberalism;;;;;;;;;;;;;x
+market_communism;Market Communism;;;;;;;;;;;;;x
+fossil_fuel_power;Fossil Fuel Power;;;;;;;;;;;;;x
+oil_well;Oil Well;;;;;;;;;;;;;x
+nuclear_power;Nuclear Power;;;;;;;;;;;;;x
+liquefied_natural_gas;Liquefied Natural Gas;;;;;;;;;;;;;x
+offshore_drilling;Offshore Drilling;;;;;;;;;;;;;x
+radio;Radio;;;;;;;;;;;;;x
+television;Television;;;;;;;;;;;;;x
+semiconductor;Semiconductor;;;;;;;;;;;;;x
+microprocessor;Microprocessor;;;;;;;;;;;;;x
+microcomputer;Microcomputer;;;;;;;;;;;;;x
+intensive_farming;Intensive Farming;;;;;;;;;;;;;x
+mineral_processing;Mineral Processing;;;;;;;;;;;;;x
+heavy_mining;Heavy Mining;;;;;;;;;;;;;x
+deep_mining;Deep Mining;;;;;;;;;;;;;x
+green_revolution;Green Revolution;;;;;;;;;;;;;x
+modern_roads;Modern Roads;;;;;;;;;;;;;x
+early_highway;Early Highway;;;;;;;;;;;;;x
+high_speed_rail;High Speed Rail;;;;;;;;;;;;;x
+interstate_highway_system;Interstate Highway System;;;;;;;;;;;;;x
+early_backbone;Early Backbone;;;;;;;;;;;;;x
+modern_electricity;Modern Electricity;;;;;;;;;;;;;x
+petrochemical_industry;Petrochemical Industry;;;;;;;;;;;;;x
+plastic_industry;Plastic Industry;;;;;;;;;;;;;x
+modern_medicine;Modern Medicine;;;;;;;;;;;;;x
+molecular_biology;Molecular Biology;;;;;;;;;;;;;x
+modern_shipyard;Modern Shipyard;;;;;;;;;;;;;x
+artificial_island;Artificial Island;;;;;;;;;;;;;x
+anti_ship_missiles;Anti Ship Missiles;;;;;;;;;;;;;x
+submarine_base;Submarine Base;;;;;;;;;;;;;x
+marine_radar;Marine Radar;;;;;;;;;;;;;x
+modern_shipbuilding;Modern Shipbuilding;;;;;;;;;;;;;x
+corvettes;Corvettes;;;;;;;;;;;;;x
+frigates;Frigates;;;;;;;;;;;;;x
+destroyers;Destroyers;;;;;;;;;;;;;x
+nuclear_submarine;Nuclear Submarine;;;;;;;;;;;;;x
+ww2_aircraft_carrier;WW2 AircraftCarrier;;;;;;;;;;;;;x
+carrier_battle_group;Carrier Battle Group;;;;;;;;;;;;;x
+helicopter_carrier;Helicopter Carrier;;;;;;;;;;;;;x
+vertical_take_off_and_landing;Vertical Take Off And Landing;;;;;;;;;;;;;x
+aircraft_carrier;Aircraft Carrier;;;;;;;;;;;;;x
+ww2_command_system;WW2 Command System;;;;;;;;;;;;;x
+anti_submarine_warfare;Anti Submarine Warfare;;;;;;;;;;;;;x
+missile_guidance_system;Missile Guidance System;;;;;;;;;;;;;x
+naval_sea_systems_command;Naval Sea Systems Command;;;;;;;;;;;;;x
+cruise_missile;Cruise Missile;;;;;;;;;;;;;x
+command_of_the_sea;Command Of The Sea;;;;;;;;;;;;;x
+sea_denial_strategy;Sea Denial Strategy;;;;;;;;;;;;;x
+power_projection;Power Projection;;;;;;;;;;;;;x
+green_blue_water_navies;Green Blue Water Navies;;;;;;;;;;;;;x
+supercarrier_battle_group;Supercarrier Battle Group;;;;;;;;;;;;;x

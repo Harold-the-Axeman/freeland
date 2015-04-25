@@ -37,6 +37,6 @@ hussar = {
 	defence = 10
 	discipline = 1.0
 	support = 6
-	maneuver = 2
+	maneuver = 3
     siege = 4
 }
