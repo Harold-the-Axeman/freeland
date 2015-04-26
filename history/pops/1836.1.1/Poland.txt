@@ -792,25 +792,25 @@
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = north_german
 		religion = catholic
 		size = 50  
 	}
 
 	artisans = {
-		culture = south_german
+		culture = north_german
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = north_german
 		religion = catholic
 		size = 25  
 	}
 
 	farmers = {
-		culture = south_german
+		culture = north_german
 		religion = catholic
 		size = 1675   
 	}
@@ -1890,25 +1890,25 @@
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = north_german
 		religion = catholic
 		size = 20
 	}
 
 	artisans = {
-		culture = south_german
+		culture = north_german
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = north_german
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = south_german
+		culture = north_german
 		religion = catholic
 		size = 920
 	}
@@ -2007,25 +2007,25 @@
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = north_german
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = south_german
+		culture = north_german
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = north_german
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = south_german
+		culture = north_german
 		religion = catholic
 		size = 1825
 	}
@@ -2087,25 +2087,25 @@
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = north_german
 		religion = catholic
 		size = 20
 	}
 
 	artisans = {
-		culture = south_german
+		culture = north_german
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = north_german
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = south_german
+		culture = north_german
 		religion = catholic
 		size = 920
 	}
@@ -2422,25 +2422,25 @@
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = north_german
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = south_german
+		culture = north_german
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = north_german
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = south_german
+		culture = north_german
 		religion = catholic
 		size = 1825
 	}
