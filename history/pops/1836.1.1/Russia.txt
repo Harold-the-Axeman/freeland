@@ -917,13 +917,13 @@
 	}
 
 	clergymen = {
-		culture = finnish
+		culture = north_german
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = finnish
+		culture = north_german
 		religion = animist
 		size = 490
 	}
@@ -1081,13 +1081,13 @@
 	}
 
 	clergymen = {
-		culture = finnish
+		culture = north_german
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = finnish
+		culture = north_german
 		religion = animist
 		size = 245
 	}
@@ -1829,25 +1829,25 @@
 	}
 
 	clergymen = {
-		culture = finnish
+		culture = north_german
 		religion = protestant
 		size = 175
 	}
 
 	artisans = {
-		culture = finnish
+		culture = north_german
 		religion = protestant
 		size = 8000
 	}
 
 	soldiers = {
-		culture = finnish
+		culture = north_german
 		religion = protestant
 		size = 225
 	}
 
 	farmers = {
-		culture = finnish
+		culture = north_german
 		religion = protestant
 		size = 13600
 	}
