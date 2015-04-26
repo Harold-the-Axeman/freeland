@@ -202,12 +202,6 @@ YNN = {
 	influence_value = 25
 }
 
-HAN = {
-	value = 125
-	level = 5
-	influence_value = 25
-}
-
 GRE = {
 	value = 125		#relation
 	level = 5		#3=cordial, 4 = friendly, 5 sphere

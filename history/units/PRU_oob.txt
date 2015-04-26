@@ -1,3 +1,45 @@
+DEN = {	
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+HOL = {	
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+BAD = {	
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+BAV = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+WUR = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+SAX = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+HAN = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
 ANH = {
 
 	value = 125
@@ -241,15 +283,6 @@ RUS = {
 FRA = {
 	value = -25
 }
-
-DEN = {
-
-	value = 49
-	level = 4
-	influence_value = 25
-
-}
-
 
 
 
