@@ -431,25 +431,25 @@
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 4650
 	}

@@ -1,5 +1,5 @@
 capital = 322
-primary_culture = swedish
+primary_culture = north_german
 culture = finnish
 culture = norwegian
 culture = sami
@@ -7,7 +7,7 @@ religion = protestant
 government = hms_government
 plurality = 25.0
 nationalvalue = nv_order
-literacy = 0.8
+literacy = 0.9
 civilized = yes
 prestige = 15
 

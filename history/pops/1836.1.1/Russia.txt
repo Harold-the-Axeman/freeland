@@ -157,25 +157,25 @@
 	}
 
 	clergymen = {
-		culture = byelorussian
+		culture = south_german
 		religion = orthodox
 		size = 175
 	}
 
 	artisans = {
-		culture = byelorussian
+		culture = south_german
 		religion = orthodox
 		size = 800
 	}
 
 	soldiers = {
-		culture = byelorussian
+		culture = south_german
 		religion = orthodox
 		size = 200
 	}
 
 	farmers = {
-		culture = byelorussian
+		culture = south_german
 		religion = orthodox
 		size = 18825
 	}
@@ -2433,49 +2433,49 @@
 	}
 
 	clergymen = {
-		culture = estonian
+		culture = south_german
 		religion = protestant
 		size = 15
 	}
 
 	artisans = {
-		culture = estonian
+		culture = south_german
 		religion = protestant
 		size = 50
 	}
 
 	soldiers = {
-		culture = estonian
+		culture = south_german
 		religion = protestant
 		size = 10
 	}
 
 	farmers = {
-		culture = estonian
+		culture = south_german
 		religion = protestant
 		size = 925
 	}
 
 	clergymen = {
-		culture = latvian
+		culture = south_german
 		religion = protestant
 		size = 45
 	}
 
 	artisans = {
-		culture = latvian
+		culture = south_german
 		religion = protestant
 		size = 150
 	}
 
 	soldiers = {
-		culture = latvian
+		culture = south_german
 		religion = protestant
 		size = 30
 	}
 
 	farmers = {
-		culture = latvian
+		culture = south_german
 		religion = protestant
 		size = 2775
 	}

@@ -675,25 +675,25 @@
 	}
 
 	clergymen = {
-		culture = slovak
+		culture = south_german
 		religion = catholic
 		size = 275
 	}
 
 	artisans = {
-		culture = slovak
+		culture = south_german
 		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = slovak
+		culture = south_german
 		religion = catholic
 		size = 300   
 	}
 
 	farmers = {
-		culture = slovak
+		culture = south_german
 		religion = catholic
 		size = 29925 
 	}
@@ -1010,7 +1010,7 @@
 		size = 800 
 	}
 }
-#Felvidek Region (320000) #see Slovakia.txt and Ukraine.txt for balance of Region
+#Felvidek Region (320000) #see south_germania.txt and Ukraine.txt for balance of Region
 #under the rule of Austria in 1836  
 #Miskolc (320000/80000 POPS) #Part of Hungary Today
 646 = {
@@ -1099,25 +1099,25 @@
 	}
 
 	clergymen = {
-		culture = slovak
+		culture = south_german
 		religion = catholic
 		size = 50 
 	}
 
 	artisans = {
-		culture = slovak
+		culture = south_german
 		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
-		culture = slovak
+		culture = south_german
 		religion = catholic
 		size = 50 
 	}
 
 	farmers = {
-		culture = slovak
+		culture = south_german
 		religion = catholic
 		size = 6600 
 	}
@@ -1217,25 +1217,25 @@
 	}
 
 	clergymen = {
-		culture = slovak
+		culture = south_german
 		religion = catholic
 		size = 10  
 	}
 
 	artisans = {
-		culture = slovak
+		culture = south_german
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = slovak
+		culture = south_german
 		religion = catholic
 		size = 25  
 	}
 
 	farmers = {
-		culture = slovak
+		culture = south_german
 		religion = catholic
 		size = 915 
 	}

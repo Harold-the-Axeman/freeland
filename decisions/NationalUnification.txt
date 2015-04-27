@@ -136,7 +136,8 @@ political_decisions = {
 		potential = {
 			is_greater_power = yes
 			primary_culture = north_german
-			NOT = {
+			tag = PRU
+            NOT = {
 				exists = GER
 				exists = NGF
 			}
