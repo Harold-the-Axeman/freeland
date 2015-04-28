@@ -1,3 +1,27 @@
+SWI = {
+        value = 125
+        level = 5
+        influence_value = 25
+}
+
+LUX = {
+        value = 125
+        level = 5
+        influence_value = 25
+}
+
+BEL = {
+        value = 125
+        level = 5
+        influence_value = 25
+}
+
+NET = {
+        value = 125
+        level = 5
+        influence_value = 25
+}
+
 DEN = {	
 	value = 125
 	level = 5
@@ -159,16 +183,6 @@ LUB = {
 	influence_value = 25
 
 	military_access = yes
-
-}
-
-LUX = {
-
-	value = 125
-
-	level = 3
-
-	influence_value = 25
 
 }
 
