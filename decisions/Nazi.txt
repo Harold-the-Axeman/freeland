@@ -53,6 +53,10 @@ political_decisions = {
 		effect = {
 			set_country_flag = haslivingspace
 
+			RUS = {
+				capital = 
+			}
+
 			RUS_336 = {
 				add_core = POL
 			}
