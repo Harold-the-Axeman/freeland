@@ -54,7 +54,7 @@ political_decisions = {
 			set_country_flag = haslivingspace
 
 			RUS = {
-				capital = 
+				capital = 977
 			}
 
 			RUS_336 = {
