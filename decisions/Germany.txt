@@ -295,6 +295,7 @@ political_decisions = {
 		
 		effect = {
 			533 = {
+                remove_core = ENG
 				add_core = GER # Heligoland is my last territorial demand!
 			}
 			set_country_flag = has_questioned_heligoland
