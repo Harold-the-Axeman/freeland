@@ -150,6 +150,18 @@ categories =  {
 		mine_rgo_eff = 0.0
 		supply_limit = 2
 	}	
+
+	urban = {
+		movement_cost = 1.2
+		defense = 3
+		color = { 22 44 66 }
+		farm_rgo_size = 0.33
+		farm_rgo_eff = 0.33
+		mine_rgo_size = 0.33
+		mine_rgo_eff = 0.33
+		supply_limit = 30
+		combat_width = -0.20
+	}
 }
 
 

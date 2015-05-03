@@ -3,7 +3,8 @@ controller = PRU
 
 add_core = GER
 trade_goods = fruit
-life_rating = 42
+life_rating = 60
+terrain = urban
 railroad = 1
 fort = 1
 state_building = {
