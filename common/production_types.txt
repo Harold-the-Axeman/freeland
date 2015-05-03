@@ -163,7 +163,7 @@ opium_factory = {
 silk_factory = {       
 	template = tech_factory_template
 	input_goods = {
-		cotton = 5
+		wool = 15
 	}
 	output_goods = silk
 	value = 1.0			#100
