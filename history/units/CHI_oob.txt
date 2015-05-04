@@ -122,37 +122,37 @@ army = {
 
 	regiment = {
 		name= "1.Tatar Cavalry"
-		type = cavalry
+		type = irregular
 		home = 1488
 	}
 
 	regiment = {
 		name= "2.Tatar Cavalry"
-		type = cavalry
+		type = irregular
 		home = 1490
 	}
 
 	regiment = {
 		name= "3.Tatar Cavalry"
-		type = cavalry
+		type = irregular
 		home = 1532
 	}
 
 	regiment = {
 		name= "4.Tatar Cavalry"
-		type = cavalry
+		type = irregular
 		home = 1535
 	}
 
 	regiment = {
 		name= "5.Tatar Cavalry"
-		type = cavalry
+		type = irregular
 		home = 1534
 	}
 
 	regiment = {
 		name= "6.Tatar Cavalry"
-		type = cavalry
+		type = irregular
 		home = 1533
 	}
 

@@ -3,7 +3,7 @@ army = {
 	location = 322
 	regiment = {
 		name= "Svea Livgarde"
-		type = guard
+		type = infantry
 		home = 322
 	}
 
@@ -51,13 +51,13 @@ army = {
 
 	regiment = {
 		name= "Kronprinsens Husarregemente"
-		type = hussar
+		type = infantry
 		home = 335
 	}
 
 	regiment = {
 		name= "Norrlands Dragonregemente"
-		type = dragoon
+		type = infantry
 		home = 321
 	}
 
@@ -68,22 +68,22 @@ navy = {
 	location = 322
 	ship = {
 		name= "Karl XIII"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
 		name= "Karl XIV Johan"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
 		name= "Fäderneslandet"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
 		name= "Manligheten"
-		type = manowar
+		type = frigate
 	}
 
 

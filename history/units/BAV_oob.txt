@@ -21,7 +21,7 @@ army = {
 
 	regiment = {
 		name= "4. Kgl. Bayer. Infanteriebrigade"
-		type = artillery
+		type = infantry
 		home = 601
 	}
 

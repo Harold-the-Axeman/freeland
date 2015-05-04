@@ -3,19 +3,19 @@ army = {
 	location = 375 
 	regiment = {
 		name= "1e Cavalerie Brigade"
-		type = cuirassier
+		type = infantry
 		home = 375
 	}
 
 	regiment = {
 		name= "2e Cavalerie Brigade"
-		type = cuirassier
+		type = infantry
 		home = 383
 	}
 
 	regiment = {
 		name= "3e Cavalerie Brigade"
-		type = cuirassier
+		type = infantry
 		home = 380
 	}
 
@@ -106,12 +106,12 @@ navy = {
 	location = 375 #Amsterdam
 	ship = {
 		name= "Doggersbank"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
 		name= "Amsterdam"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
@@ -166,12 +166,12 @@ navy = {
 	location = 1413 #Batavia
 	ship = {
 		name= "Admiraal de Ruyter"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
 		name= "Verwachting"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
@@ -206,7 +206,7 @@ navy = {
 
 	ship = {
 		name= "Admiraal Generaal"
-		type = manowar
+		type = frigate
 	}
 
 	ship = {
