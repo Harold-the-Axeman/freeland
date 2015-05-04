@@ -3,19 +3,19 @@ army = {
 	location = 1198
 	regiment = {
 		name= "1st Buchara"
-		type = irregular
+		type = cavalry
 		home = 1198
 	}
 
 	regiment = {
 		name= "2nd Buchara"
-		type = irregular
+		type = cavalry
 		home = 1198
 	}
 
 	regiment = {
 		name= "3rd Buchara"
-		type = irregular
+		type = cavalry
 		home = 1198
 	}
 }

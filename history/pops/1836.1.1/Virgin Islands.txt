@@ -1,27 +1,27 @@
-#north_german West Indies Region  #see Leeward Islands.txt for BVI
+#Danish West Indies Region  #see Leeward Islands.txt for BVI
 #Ruled by Denmark 1836
 #Saint Thomas (44000/11000 POPS)
 2223 = {
 	aristocrats = {
-		culture = north_german
+		culture = danish
 		religion = protestant
 		size = 200
 	}
 
 	bureaucrats = {
-		culture = north_german
+		culture = danish
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = north_german
+		culture = danish
 		religion = protestant
 		size = 375
 	}
 
 	farmers = {
-		culture = north_german
+		culture = danish
 		religion = protestant
 		size = 400
 	}

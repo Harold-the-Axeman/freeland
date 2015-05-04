@@ -106,7 +106,7 @@ army = {
 
 	regiment = {
 		name= "3.2-ya Gvardeiskaya Pekhotnaya Diviziya"
-		type = infantry
+		type = artillery
 		home = 718
 	}
 
@@ -131,47 +131,47 @@ army = {
 }
 
 army = {
-	name = "Guards irregular Corps"
+	name = "Guards Cavalry Corps"
 	location = 343
 	regiment = {
 		name= "1.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
-		type = infantry
+		type = dragoon
 		home = 994
 	}
 
 	regiment = {
 		name= "2.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
-		type = infantry
+		type = dragoon
 		home = 999
 	}
 
 	regiment = {
 		name= "3.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
-		type = infantry
+		type = dragoon
 		home = 1016
 	}
 
 	regiment = {
 		name= "4.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
-		type = infantry
+		type = cuirassier
 		home = 978
 	}
 
 	regiment = {
 		name= "1.2-ya Gvardeiskaya Kavaleriiskaya Diviziya"
-		type = infantry
+		type = cuirassier
 		home = 1008
 	}
 
 	regiment = {
 		name= "2.2-ya Gvardeiskaya Kavaleriiskaya Diviziya"
-		type = infantry
+		type = cuirassier
 		home = 968
 	}
 
 	regiment = {
 		name= "3.2-ya Gvardeiskaya Kavaleriiskaya Diviziya"
-		type = infantry
+		type = cuirassier
 		home = 994
 	}
 }
@@ -193,7 +193,7 @@ army = {
 
 	regiment = {
 		name= "3.1-ya Grenaderskaya Diviziya"
-		type = infantry
+		type = artillery
 		home = 962
 	}
 
@@ -229,25 +229,25 @@ army = {
 
 	regiment = {
 		name= "3.3-ya Grenaderskaya Diviziya"
-		type = infantry
+		type = artillery
 		home = 997
 	}
 	
 	regiment = {
 		name= "1.1-ya Kavalerijskaya Diviziya"
-		type = infantry
+		type = dragoon
 		home = 977
 	}
 
 	regiment = {
 		name= "2.2-ya Kavalerijskaya Diviziya"
-		type = infantry
+		type = dragoon
 		home = 1001
 	}
 
 	regiment = {
 		name= "3.1-ya Kavalerijskaya Diviziya"
-		type = infantry
+		type = dragoon
 		home = 1017
 	}
 
@@ -272,7 +272,7 @@ army = {
 
 	regiment = {
 		name= "3.1-ya Pekhotnaya Diviziya"
-		type = infantry
+		type = artillery
 		home = 1018
 	}
 
@@ -290,7 +290,7 @@ army = {
 
 	regiment = {
 		name= "3.2-ya Pekhotnaya Diviziya"
-		type = infantry
+		type = artillery
 		home = 706
 	}
 
@@ -315,59 +315,59 @@ army = {
 }
 
 army = {
-	name = "Reserve irregular Corps"
+	name = "Reserve Cavalry Corps"
 	location = 706
 	regiment = {
 		name= "1.2-ya Kavalerijskaya Diviziya"
-		type = infantry
+		type = cuirassier
 		home = 1037
 	}
 
 	regiment = {
 		name= "2.2-ya Kavalerijskaya Diviziya"
-		type = infantry
+		type = cuirassier
 		home = 1064
 	}
 
 	regiment = {
 		name= "3.2-ya Kavalerijskaya Diviziya"
-		type = infantry
+		type = cuirassier
 		home = 1025
 	}
 
 	regiment = {
 		name= "1.3-ya Kavalerijskaya Diviziya"
-		type = infantry
+		type = cuirassier
 		home = 1034
 	}
 
 	regiment = {
 		name= "2.3-ya Kavalerijskaya Diviziya"
-		type = infantry
+		type = cuirassier
 		home = 361
 	}
 
 	regiment = {
 		name= "3.3-ya Kavalerijskaya Diviziya"
-		type = infantry
+		type = cuirassier
 		home = 964
 	}
 
 	regiment = {
 		name= "1.4-ya Kavalerijskaya Diviziya"
-		type = infantry
+		type = cuirassier
 		home = 948
 	}
 
 	regiment = {
 		name= "2.4-ya Kavalerijskaya Diviziya"
-		type = infantry
+		type = cuirassier
 		home = 956
 	}
 
 	regiment = {
 		name= "3.4-ya Kavalerijskaya Diviziya"
-		type = infantry
+		type = cuirassier
 		home = 345
 	}
 
@@ -390,7 +390,7 @@ army = {
 
 	regiment = {
 		name= "3.4-ya Pekhotnaya Diviziya"
-		type = infantry
+		type = artillery
 		home = 949
 	}
 
@@ -436,19 +436,19 @@ army = {
 	location = 1047
 	regiment = {
 		name= "1.Azov Cossacks"
-		type = irregular
+		type = cavalry
 		home = 1047
 	}
 
 	regiment = {
 		name= "2.Azov Cossacks"
-		type = irregular
+		type = cavalry
 		home = 1047
 	}
 
 	regiment = {
 		name= "3.Azov Cossacks"
-		type = irregular
+		type = cavalry
 		home = 979
 	}
 
@@ -459,19 +459,19 @@ army = {
 	location = 967
 	regiment = {
 		name= "1.Chernomoriya"
-		type = irregular
+		type = cavalry
 		home = 1049
 	}
 
 	regiment = {
 		name= "2.Chernomoriya"
-		type = irregular
+		type = cavalry
 		home = 1050
 	}
 
 	regiment = {
 		name= "3.Chernomoriya"
-		type = irregular
+		type = cavalry
 		home = 1051
 	}
 
@@ -482,19 +482,19 @@ army = {
 	location = 979
 	regiment = {
 		name= "1.1. Don Cossacks"
-		type = irregular
+		type = cavalry
 		home = 1039
 	}
 
 	regiment = {
 		name= "2.1. Don Cossacks"
-		type = irregular
+		type = cavalry
 		home = 1019
 	}
 
 	regiment = {
 		name= "3.1. Don Cossacks"
-		type = irregular
+		type = cavalry
 		home = 1045
 	}
 
@@ -505,19 +505,19 @@ army = {
 	location = 959
 	regiment = {
 		name= "1.2. Don Cossacks"
-		type = irregular
+		type = cavalry
 		home = 1039
 	}
 
 	regiment = {
 		name= "2.2. Don Cossacks"
-		type = irregular
+		type = cavalry
 		home = 1019
 	}
 
 	regiment = {
 		name= "3.2. Don Cossacks"
-		type = irregular
+		type = cavalry
 		home = 1040
 	}
 
@@ -535,7 +535,7 @@ army = {
 
 	regiment = {
 		name= "2.7-ya Pekhotnaya Diviziya"
-		type = infantry
+		type = engineer
 		home = 1021
 	}
 	
@@ -552,157 +552,157 @@ navy = {
 	location = 967
 	ship = {
 		name= "Nord Adler"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Prints Gustav"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Ne Tron Menya"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Svyastoslav"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Chrabryi"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Smelyi"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Tri Svyatitelei"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Yupiter"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Chesma"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Mironosets"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Asia"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Azov"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Rossiya"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Saratov"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Blagodat' "
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Sv Pavel"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Smelyï"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Archistratig Gavriil"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Evsavie"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Chrabryï"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Moskva"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Boleslav"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Gleb"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Severnaya Zvezda"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Borei"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Orel"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Ianuarii"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Ioann"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Ne Tron Menya"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Panteleimon"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Michael"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
@@ -812,82 +812,82 @@ navy = {
 	location = 994
 	ship = {
 		name= "Dvenadtsat' Apostolov"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Poltava"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Ratnyi"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Hiagudil"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Gangut"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Ezekiel"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Tsar Konstantin"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Yaroslav"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Izyaslav"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Pravyi"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Isidor"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Anapa"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Maria"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Dimitri Donskoi"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Paraskevia"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Sv Ytoslav"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {

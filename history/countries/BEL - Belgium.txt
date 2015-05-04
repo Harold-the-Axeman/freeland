@@ -1,12 +1,12 @@
 capital = 387
-primary_culture = north_german
+primary_culture = wallonian
 culture = flemish
 culture = french
 religion = catholic
 government = hms_government
 plurality = 25.0
 nationalvalue = nv_liberty
-literacy = 0.9
+literacy = 0.5
 non_state_culture_literacy = 0.5 #Germans/Dutch
 civilized = yes
 prestige = 10

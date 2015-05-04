@@ -3,37 +3,37 @@
 #Maribor (204000/51000 POPS) #Part of Slovenia Today
 767 = {
 	aristocrats = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 750 
 	}
 	
 	bureaucrats = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 50 
 	}
 
 	artisans = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 50 
 	}
 
 	farmers = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 3150
 	}
@@ -141,13 +141,13 @@
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 1975
 	}

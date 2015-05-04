@@ -47,7 +47,7 @@ army = {
 
 	regiment = {
 		name= "1.1. Kavalleridivision"
-		type = infantry
+		type = dragoon
 		home = 373
 	}
 
@@ -58,17 +58,17 @@ navy = {
 	location = 372
 	ship = {
 		name= "Danmark"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Dronning Marie"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Frederik den sjette"
-		type = frigate
+		type = manowar
 	}
 
 

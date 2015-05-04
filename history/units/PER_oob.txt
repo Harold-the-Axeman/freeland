@@ -2,20 +2,20 @@ army = {
 	name = "Army of Persia"
 	location = 1120
 	regiment = {
-		name= "1. irregular Brigade"
-		type = irregular
+		name= "1. Cavalry Brigade"
+		type = cavalry
 		home = 1121
 	}
 
 	regiment = {
-		name= "2. irregular Brigade"
-		type = irregular
+		name= "2. Cavalry Brigade"
+		type = cavalry
 		home = 1147
 	}
 
 	regiment = {
-		name= "3. irregular Brigade"
-		type = irregular
+		name= "3. Cavalry Brigade"
+		type = cavalry
 		home = 1125
 	}
 

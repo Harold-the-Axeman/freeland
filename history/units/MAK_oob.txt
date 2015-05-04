@@ -3,7 +3,7 @@ army = {
 	location = 1222
 	regiment = {
 		name= "1.Baluchye"
-		type = irregular
+		type = cavalry
 		home = 1222
 	}
 }

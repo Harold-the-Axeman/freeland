@@ -1,5 +1,5 @@
-owner = PRU
-controller = PRU
+owner = FRA
+controller = FRA
 add_core = FRA
 add_core = GER
 trade_goods = precious_metal

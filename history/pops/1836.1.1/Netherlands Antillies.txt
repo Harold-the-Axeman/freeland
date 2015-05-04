@@ -1,21 +1,21 @@
-#north_german West Indies Region : 19500
+#Dutch West Indies Region : 19500
 #Ruled by Netherlands 1836
 #Curacao (12300/3100 POPS)
 2234 = {
 	bureaucrats = {
-		culture = north_german
+		culture = dutch
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = dutch
 		religion = protestant
 		size = 25
 	}
 
 	artisans = {
-		culture = north_german
+		culture = dutch
 		religion = protestant
 		size = 70
 	}

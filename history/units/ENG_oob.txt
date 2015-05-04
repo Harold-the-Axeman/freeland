@@ -75,6 +75,11 @@ ARG = {
 	level = 3		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 25
 }
+BEL = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
 ION = {
 	value = 125		#relation
 	level = 5		#3=cordial, 4 = friendly, 5 sphere
@@ -197,6 +202,12 @@ YNN = {
 	influence_value = 25
 }
 
+HAN = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
 GRE = {
 	value = 125		#relation
 	level = 5		#3=cordial, 4 = friendly, 5 sphere
@@ -223,19 +234,19 @@ army = {
 	location = 300
 	regiment = {
 		name= "Light Brigade"
-		type = infantry
+		type = hussar
 		home = 300
 	}
 
 	regiment = {
-		name= "Royal infantrys"
-		type = infantry
+		name= "Royal Dragoons"
+		type = dragoon
 		home = 294
 	}
 
 	regiment = {
 		name= "Heavy Brigade"
-		type = infantry
+		type = cuirassier
 		home = 291
 	}
 
@@ -253,7 +264,7 @@ army = {
 
 	regiment = {
 		name= "3.1st Division"
-		type = infantry
+		type = artillery
 		home = 295
 	}
 
@@ -542,20 +553,20 @@ army = {
 	name = "The Delhi Army"
 	location = 1239
 	regiment = {
-		name= "1.2nd irregular Division"
-		type = infantry
+		name= "1.2nd Cavalry Division"
+		type = cuirassier
 		home = 278
 	}
 
 	regiment = {
-		name= "2.2nd irregular Division"
-		type = infantry
+		name= "2.2nd Cavalry Division"
+		type = cuirassier
 		home = 297
 	}
 
 	regiment = {
-		name= "3.2nd irregular Division"
-		type = infantry
+		name= "3.2nd Cavalry Division"
+		type = hussar
 		home = 260
 	}
 
@@ -623,147 +634,147 @@ navy = {
 	location = 303
 	ship = {
 		name= "HMS Asia"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Belleisle"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Bellerophon"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Bombay"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Britannia"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Calcutta"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Camperdown"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Carnatic"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Clarence"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Formidable"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Ganges"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Hastings"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Hawke"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Malabar"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Monarch"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Neptune"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Powerful"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Prince Regent"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Princess Charlotte"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Rodney"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Royal Adelaide"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Royal George"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Royal William"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Russell"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Talavera"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Thunderer"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Vanguard"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Vengeance"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Waterloo"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
@@ -828,12 +839,12 @@ navy = {
 
 	ship = {
 		name= "HMS Medea"
-		type = frigate
+		type = commerce_raider
 	}
 
 	ship = {
 		name= "HMS Phoenix"
-		type = frigate
+		type = commerce_raider
 	}
 
 }
@@ -843,52 +854,52 @@ navy = {
 	location = 303
 	ship = {
 		name= "HMS Blenheim"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Cambridge"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Cornwallis"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Defence"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Genoa"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Hercules"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Howe"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Nelson"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Redoubtable"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Salisbury"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
@@ -948,52 +959,52 @@ navy = {
 	location = 299 #Plymouth
 	ship = {
 		name= "HMS Bellona"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Benbow"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Devonshire"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Hogue"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Medway"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Mulgrave"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Pembroke"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Queen Charlotte"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Scarborough"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Stirling Castle"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
@@ -1053,52 +1064,52 @@ navy = {
 	location = 299 #Plymouth
 	ship = {
 		name= "HMS Ajax"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Armada"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Caledonia"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Edinburgh"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Egmont"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Impregnable"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Invincible"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Minden"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Poictiers"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Warspite"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
@@ -1158,27 +1169,27 @@ navy = {
 	location = 301 #Canterbury
 	ship = {
 		name= "HMS Foudroyant"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Hibernia"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Illustrious"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Implacable"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Revenge"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
@@ -1218,32 +1229,32 @@ navy = {
 	location = 854 #Malta
 	ship = {
 		name= "HMS Agincourt"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Black Prince"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Melville"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Minotaur"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Pitt"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Wellington"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
@@ -1308,7 +1319,7 @@ navy = {
 
 	ship = {
 		name= "HMS Salamander"
-		type = frigate
+		type = commerce_raider
 	}
 
 }
@@ -1338,12 +1349,12 @@ navy = {
 	location = 71 #Halifax
 	ship = {
 		name= "HMS Saint Vincent"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "HMS Wellesley"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
@@ -1388,7 +1399,7 @@ navy = {
 
 	ship = {
 		name= "HMS Rhadamanthus"
-		type = frigate
+		type = commerce_raider
 	}
 
 }

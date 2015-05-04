@@ -3,7 +3,7 @@ army = {
 	location = 589
 	regiment = {
 		name = "1. Reiter-Regiment König Karl" #Anachronistic by 30 years
-		type = irregular
+		type = cavalry
 		home = 589
 	}
 	regiment = {
@@ -28,7 +28,7 @@ army = {
 	}
 	regiment = {
 		name = "1. Bataillon FußArtillerie"
-		type = infantry
+		type = artillery
 		home = 593
 	}
 }

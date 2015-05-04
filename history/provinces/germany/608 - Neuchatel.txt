@@ -1,6 +1,7 @@
 owner = SWI
 controller = SWI
-dd_core = GER
+add_core = SWI
+add_core = PRU
 trade_goods = coal
 life_rating = 40
 

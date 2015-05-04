@@ -1,11 +1,11 @@
 capital = 372
-primary_culture = north_german
+primary_culture = danish
 culture = icelandic
 religion = protestant
 government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order
-literacy = 0.9
+literacy = 0.8
 non_state_culture_literacy = 0.6 #Germans
 civilized = yes
 prestige = 5

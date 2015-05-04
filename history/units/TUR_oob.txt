@@ -70,7 +70,7 @@ army = {
 
 	regiment = {
 		name= "4. Bostancy-yy Hassa"
-		type = infantry
+		type = artillery
 		home = 861
 	}
 
@@ -81,19 +81,19 @@ army = {
 	location = 810
 	regiment = {
 		name= "1. Sipahis"
-		type = infantry
+		type = cuirassier
 		home = 798
 	}
 
 	regiment = {
 		name= "2. Sipahis"
-		type = infantry
+		type = cuirassier
 		home = 799
 	}
 
 	regiment = {
 		name= "3. Sipahis"
-		type = infantry
+		type = cuirassier
 		home = 802
 	}
 
@@ -117,7 +117,7 @@ army = {
 
 	regiment = {
 		name= "4. Piyade Tümeni"
-		type = infantry
+		type = artillery
 		home = 804
 	}
 
@@ -188,7 +188,7 @@ army = {
 
 	regiment = {
 		name= "8. Piyade Tümeni"
-		type = infantry
+		type = artillery
 		home = 888
 	}
 
@@ -235,19 +235,19 @@ army = {
 	location = 818
 	regiment = {
 		name= "4. Sipahis"
-		type = infantry
+		type = cuirassier
 		home = 810
 	}
 
 	regiment = {
 		name= "5. Sipahis"
-		type = infantry
+		type = cuirassier
 		home = 811
 	}
 
 	regiment = {
 		name= "6. Sipahis"
-		type = infantry
+		type = cuirassier
 		home = 812
 	}
 
@@ -335,13 +335,13 @@ army = {
 	location = 1733
 	regiment = {
 		name= "7. Sipahis"
-		type = irregular
+		type = cavalry
 		home = 1733
 	}
 
 	regiment = {
 		name= "8. Sipahis"
-		type = irregular
+		type = cavalry
 		home = 1731
 	}
 }
@@ -367,62 +367,62 @@ navy = {
 	location = 860
 	ship = {
 		name= "Masudiya"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Sadd al Bahri"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Ankay i Barhi"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Taus i Barhi"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Tevfik Nyuma"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Bisharet Nyuma"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Killid i Barhi"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Heybetendaz"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Melek i Barhi"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Sayyad i Barhi"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Gulbang i Nusret"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Jebel Andaz"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {

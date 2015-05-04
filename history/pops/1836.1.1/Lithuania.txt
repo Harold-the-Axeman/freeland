@@ -3,67 +3,67 @@
 #Vilnius (168000/42000 POPS)
 360 = {
 	clergymen = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 2500
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 12400
 	}
 
 	aristocrats = {
-		culture = south_german
+		culture = polish
 		religion = catholic
 		size = 1250
 	}
 
 	bureaucrats = {
-		culture = south_german
+		culture = polish
 		religion = catholic
 		size = 225
 	}
 
 	officers = {
-		culture = south_german
+		culture = polish
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = polish
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = south_german
+		culture = polish
 		religion = catholic
 		size = 3750
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = polish
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = south_german
+		culture = polish
 		religion = catholic
 		size = 4325
 	}
@@ -95,61 +95,61 @@
 #Kaunas (204000/51000 POPS)
 361 = {
 	aristocrats = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 950
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 400
 	}
 
 	artisans = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 1150
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 37500
 	}
 
 	aristocrats = {
-		culture = south_german
+		culture = polish
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = polish
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = south_german
+		culture = polish
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = polish
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = south_german
+		culture = polish
 		religion = catholic
 		size = 550
 	}
@@ -181,55 +181,55 @@
 #Marjampole (240000/60000 POPS)
 362 = {
 	clergymen = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 250
 	}
 
 	artisans = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 25000
 	}
 
 	aristocrats = {
-		culture = south_german
+		culture = polish
 		religion = catholic
 		size = 1950
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = polish
 		religion = catholic
 		size = 275
 	}
 
 	artisans = {
-		culture = south_german
+		culture = polish
 		religion = catholic
 		size = 1200
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = polish
 		religion = catholic
 		size = 300
 	}
 
 	farmers = {
-		culture = south_german
+		culture = polish
 		religion = catholic
 		size = 13225
 	}
@@ -285,31 +285,31 @@
 #Panevezys (204000/51000 POPS)
 363 = {
 	aristocrats = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 1025
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 375
 	}
 
 	artisans = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 1750
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 375
 	}
 
 	farmers = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 34475
 	}
@@ -389,31 +389,31 @@
 #Siauliai (200000/50000 POPS)
 364 = {
 	aristocrats = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 900
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 400
 	}
 
 	artisans = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 1250
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 425
 	}
 
 	farmers = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 40025
 	}
@@ -445,31 +445,31 @@
 #Palanga (84000/21000 POPS)
 365 = {
 	aristocrats = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 350
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 175
 	}
 
 	farmers = {
-		culture = south_german
+		culture = lithuanian
 		religion = catholic
 		size = 15825
 	}
@@ -570,25 +570,25 @@
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = lithuanian
 		religion = protestant
 		size = 150 
 	}
 
 	artisans = {
-		culture = south_german
+		culture = lithuanian
 		religion = protestant
 		size = 950
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = lithuanian
 		religion = protestant
 		size = 1100 
 	}
 
 	farmers = {
-		culture = south_german
+		culture = lithuanian
 		religion = protestant
 		size = 17100
 	}

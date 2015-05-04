@@ -1,10 +1,9 @@
 owner = PRU
 controller = PRU
-
+add_core = PRU
 add_core = GER
 trade_goods = fruit
-life_rating = 60
-terrain = urban
+life_rating = 42
 railroad = 1
 fort = 1
 state_building = {

@@ -12,7 +12,7 @@ army = {
 	location = 133
 	regiment = {
 		name= "Travis' Command"
-		type = irregular
+		type = cavalry
 		home = 133
 	}
 
@@ -24,7 +24,7 @@ army = {
 	
 	regiment = {
 		name = "Burleson's Command"
-		type = infantry
+		type = artillery
 		home = 137
 	}
 	

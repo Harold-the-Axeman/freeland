@@ -52,14 +52,14 @@ army = {
 	}
 
 	regiment = {
-		name= "1. Sikh irregular"
-		type = irregular
+		name= "1. Sikh Cavalry"
+		type = cavalry
 		home = 1227
 	}
 
 	regiment = {
-		name= "2. Sikh irregular"
-		type = irregular
+		name= "2. Sikh Cavalry"
+		type = cavalry
 		home = 1233
 	}
 
@@ -81,8 +81,8 @@ army = {
 	}
 	
 	regiment = {
-		name= "3. Sikh irregular"
-		type = irregular
+		name= "3. Sikh Cavalry"
+		type = cavalry
 		home = 1234
 	}
 }

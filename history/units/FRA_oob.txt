@@ -144,7 +144,7 @@ army = {
 
 	regiment = {
 		name= "3.3ème Division d'Infanterie"
-		type = infantry
+		type = artillery
 		home = 399
 	}
 }
@@ -156,25 +156,25 @@ army = {
 
 	regiment = {
 		name= "1.Cavalerie de la Garde"
-		type = infantry
+		type = hussar
 		home = 458
 	}
 
 	regiment = {
 		name= "2.Cavalerie de la Garde"
-		type = infantry
+		type = hussar
 		home = 420
 	}
 
 	regiment = {
 		name= "3.Cavalerie de la Garde"
-		type = infantry
+		type = cuirassier
 		home = 418
 	}
 
 	regiment = {
 		name= "4.Cavalerie de la Garde"
-		type = infantry
+		type = cuirassier
 		home = 406
 	}
 
@@ -264,19 +264,19 @@ army = {
 	location = 1704
 	regiment = {
 		name= "1.1ère Division de cavalerie"
-		type = infantry
+		type = dragoon
 		home = 422
 	}
 
 	regiment = {
 		name= "2.1ère Division de cavalerie"
-		type = infantry
+		type = dragoon
 		home = 436
 	}
 
 	regiment = {
 		name= "3.1ère Division de cavalerie"
-		type = infantry
+		type = dragoon
 		home = 421
 	}
 
@@ -311,7 +311,7 @@ army = {
 
 	regiment = {
 		name= "2.9ème Division d'Infanterie"
-		type = infantry
+		type = artillery
 		home = 470
 	}
 
@@ -323,19 +323,19 @@ army = {
 
 	regiment = {
 		name= "1.2ème Division de cavalerie"
-		type = infantry
+		type = cuirassier
 		home = 462
 	}
 
 	regiment = {
 		name= "2.2ème Division de cavalerie"
-		type = infantry
+		type = cuirassier
 		home = 463
 	}
 
 	regiment = {
 		name= "3.2ème Division de cavalerie"
-		type = infantry
+		type = cuirassier
 		home = 460
 	}
 
@@ -392,77 +392,77 @@ navy = {
 	location = 420
 	ship = {
 		name= "Couronne"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Superbe"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Jean Bart"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Dix-huit Fructidor"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Wagram"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Trocadero "
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Zélandais"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Superbe"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Austerlitz"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Magnifique"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "République Française"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Conquérant"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Neptune"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Algerisas"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Nestor"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
@@ -562,92 +562,92 @@ navy = {
 	location = 470
 	ship = {
 		name= "Triton"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Etats de Bourgogne"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Souverain"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Marengo"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Ville de Marseilles"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Hercule"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Montebello "
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Centaure"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Jupiter"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Duc d’Angouleme"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Hercules"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Généreux"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Diadème"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Couronne"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Suffren"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Trident"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Royal Louis "
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Commerces de Paris"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {

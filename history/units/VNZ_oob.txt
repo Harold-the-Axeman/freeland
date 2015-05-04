@@ -21,19 +21,19 @@ army = {
 
 	regiment = {
 		name= "1. División de Caballería"
-		type = irregular
+		type = cavalry
 		home = 2268
 	}
 
 	regiment = {
 		name= "2. División de Caballería"
-		type = irregular
+		type = cavalry
 		home = 2269
 	}
 
 	regiment = {
 		name= "3. División de Caballería"
-		type = irregular
+		type = cavalry
 		home = 2271
 	}
 

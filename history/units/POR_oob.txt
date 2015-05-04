@@ -37,7 +37,7 @@ army = {
 
 	regiment = {
 		name= "1. Brigada de Caballaria"
-		type = infantry
+		type = cuirassier
 		home = 519
 	}
 
@@ -81,42 +81,42 @@ navy = {
 	location = 524
 	ship = {
 		name= "Rainha de Portugal "
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Dom João VI "
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Nossa Senhora da Conceição"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "São Sebastião"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Amazônia"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Princesa Carlota"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Teresa"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Príncipe do Brasil"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {

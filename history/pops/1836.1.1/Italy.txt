@@ -295,73 +295,73 @@
 #Milan (1332000/333000 POPS)
 726 = {
 	aristocrats = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 7350
 	}
 
 	bureaucrats = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 1325
 	}
 
 	officers = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 600
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 3350
 	}
 
 	artisans = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 9000
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 3350
 	}
 
 	farmers = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 275925
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = north_italian
 		religion = jewish
 		size = 5
 	}
 
 	artisans = {
-		culture = north_german
+		culture = north_italian
 		religion = jewish
 		size = 95
 	}
@@ -369,31 +369,31 @@
 #Bergamo (472000/118000 POPS)
 727 = {
 	aristocrats = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 2500
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 1175
 	}
 
 	artisans = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 5900
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 1150
 	}
 
 	farmers = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 107275
 	}
@@ -401,31 +401,31 @@
 #Brescia (708000/177000 POPS)
 728 = {
 	aristocrats = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 3900
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 1775
 	}
 
 	artisans = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 8850
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 1750
 	}
 
 	farmers = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 159075
 	}
@@ -435,79 +435,79 @@
 #Venice (448000/112000 POPS)
 729 = {
 	aristocrats = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 2300
 	}
 
 	bureaucrats = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 1600
 	}
 
 	officers = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 400
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 1125
 	}
 
 	artisans = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 4000
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 1150
 	}
 
 	farmers = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 60925
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = north_italian
 		religion = jewish
 		size = 10
 	}
 
 	artisans = {
-		culture = north_german
+		culture = north_italian
 		religion = jewish
 		size = 490
 	}
@@ -515,37 +515,37 @@
 #Verona (516000/129000 POPS)
 730 = {
 	aristocrats = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 2650
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 1300
 	}
 
 	artisans = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 2000
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 1300
 	}
 
 	farmers = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 111050
 	}
@@ -553,31 +553,31 @@
 #Padua (564000/141000 POPS)
 731 = {
 	aristocrats = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 2900
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 1425
 	}
 
 	artisans = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 7500
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 1400
 	}
 
 	farmers = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 127775
 	}
@@ -585,31 +585,31 @@
 #Treviso (232000/58000 POPS)
 732 = {
 	aristocrats = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 1175
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 575
 	}
 
 	artisans = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 2900
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 550
 	}
 
 	farmers = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 52800
 	}
@@ -617,31 +617,31 @@
 #Udine (300000/75000 POPS)
 733 = {
 	aristocrats = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 1550
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 750
 	}
 
 	artisans = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 3750
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 750
 	}
 
 	farmers = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 68200
 	}
@@ -651,61 +651,61 @@
 #Trent (276000/69000 POPS) #now part of Italy
 734 = {
 	aristocrats = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 60 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 80 
 	}
 
 	bureaucrats = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 800 
 	}
 	
 	artisans = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 50 
 	}
 
 	farmers = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 4610 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 575
 	}
 
 	artisans = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 2800
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 550 
 	}
 
 	farmers = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 60075
 	}
@@ -713,55 +713,55 @@
 #Bozen (92000/23000 POPS) #now part of Italy
 735 = {
 	aristocrats = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 250 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size =  150
 	}
 
 	artisans = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 150 
 	}
 
 	farmers = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 14950
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size =  50
 	}
 
 	artisans = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 50 
 	}
 
 	farmers = {
-		culture = north_german
+		culture = north_italian
 		religion = catholic
 		size = 5400
 	}
@@ -783,7 +783,7 @@
 	}
 
 	bureaucrats = {
-		culture = north_german
+		culture = south_german
 		religion = catholic
 		size = 450
 	}

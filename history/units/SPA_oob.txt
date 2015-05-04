@@ -102,25 +102,25 @@ army = {
 
 	regiment = {
 		name= "1. Brigada de Ingenieros"
-		type = infantry
+		type = engineer
 		home = 495
 	}
 
 	regiment = {
 		name= "1. Granaderos del Rey"
-		type = infantry
+		type = cuirassier
 		home = 487
 	}
 
 	regiment = {
 		name= "2. Granaderos del Rey"
-		type = infantry
+		type = cuirassier
 		home = 489
 	}
 
 	regiment = {
 		name= "3. Granaderos del Rey"
-		type = infantry
+		type = cuirassier
 		home = 488
 	}
 }
@@ -137,7 +137,7 @@ army = {
 
 	regiment = {
 		name= "1. Brigada de Artillería"
-		type = infantry
+		type = artillery
 		home = 476
 	}
 	
@@ -251,17 +251,17 @@ navy = {
 	
 	ship = {
 		name = "Santiago"
-		type = frigate
+		type = manowar
 	}
 	
 	ship = {
 		name = "Hespérides"
-		type = frigate
+		type = manowar
 	}
 	
 	ship = {
 		name = "Centinela"
-		type = frigate
+		type = manowar
 	}
 	
 	ship = {
@@ -296,17 +296,17 @@ navy = {
 	
 	ship = {
 		name = "Alerta"
-		type = frigate
+		type = manowar
 	}
 	
 	ship = {
 		name = "San Fernando"
-		type = frigate
+		type = manowar
 	}
 	
 	ship = {
 		name = "Legazpi"
-		type = frigate
+		type = manowar
 	}
 	
 	ship = {
@@ -340,17 +340,17 @@ navy = {
 	location = 506
 	ship = {
 		name= "San Raimundo"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "Héroe"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {
 		name= "San Pablo"
-		type = frigate
+		type = manowar
 	}
 
 	ship = {

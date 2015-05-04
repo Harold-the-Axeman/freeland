@@ -21,25 +21,25 @@ army = {
 
 	regiment = {
 		name= "4. Fanteria di Linea"
-		type = infantry
+		type = artillery
 		home = 2567
 	}
 
 	regiment = {
 		name= "1. Cavalleria di Linea"
-		type = infantry
+		type = cuirassier
 		home = 754
 	}
 
 	regiment = {
 		name= "2. Cavalleria di Linea"
-		type = infantry
+		type = cuirassier
 		home = 753
 	}
 
 	regiment = {
 		name= "3. Cavalleria di Linea"
-		type = infantry
+		type = cuirassier
 		home = 756
 	}
 
@@ -86,7 +86,7 @@ army = {
 
 	regiment = {
 		name= "4. Truppe Svizzere"
-		type = infantry
+		type = artillery
 		home = 763
 	}
 
@@ -97,7 +97,7 @@ navy = {
 	location = 754
 	ship = {
 		name= "Ferdinando II"
-		type = frigate
+		type = commerce_raider
 	}
 
 	ship = {
