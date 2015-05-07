@@ -354,7 +354,6 @@ country_event = {
 		}
 		USA_1 = {
 			secede_province = USA
-			remove_core = RUS
 		}
 		any_owned = {
 			limit = {
@@ -364,7 +363,7 @@ country_event = {
 			remove_core = RUS
 		}
 		ai_chance = {
-			factor = 80
+			factor = 99
 		}
 	}
 	
@@ -375,7 +374,7 @@ country_event = {
 			country_event = { id=32511 days=0 }
 		}
 		ai_chance = {
-			factor = 20
+			factor = 1
 		}
 	}
 }

@@ -15,7 +15,7 @@ country_event = {
 		has_country_flag = dred_scott_decision
 		upper_house = {
 			ideology = liberal
-			value = 0.4
+			value = 0.15
 		}
 	}
 	
@@ -209,7 +209,7 @@ country_event = {
 		}
 		any_state = {
 			is_slave = no
-			average_consciousness = 6
+			average_consciousness = 2
 		}
 		upper_house = {
 			ideology = liberal
@@ -218,7 +218,7 @@ country_event = {
 	}
 	
 	mean_time_to_happen = {
-		months = 10
+		months = 1
 		modifier = {
 			factor = 20
 			NOT = {
@@ -270,7 +270,7 @@ country_event = {
 		}
 		any_state = {
 			is_slave = yes
-			average_consciousness = 5
+			average_consciousness = 2
 		}
 		upper_house = {
 			ideology = liberal
@@ -279,7 +279,7 @@ country_event = {
 	}
 	
 	mean_time_to_happen = {
-		months = 10
+		months = 1
 		modifier = {
 			factor = 20
 			NOT = {
@@ -2020,7 +2020,7 @@ province_event = {
 			is_slave = yes
 		}
 		yes_slavery = 10
-		average_consciousness = 5
+		average_consciousness = 9
 		continent = north_america
 	}
 	

@@ -2,7 +2,8 @@ owner = USA
 controller = USA
 add_core = USA
 trade_goods = iron
-life_rating = 40
+life_rating = 60
+terrain = urban
 railroad = 1
 party_loyalty = {
 	ideology = liberal

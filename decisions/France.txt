@@ -17,11 +17,11 @@ political_decisions = {
 					government = democracy
 				}
 			}	
-			year = 1850
+			year = 1836
 		}
 	
 		allow = {
-			cheap_steel = 1
+			mechanized_mining  = 1
 		}
 	
 		effect = {

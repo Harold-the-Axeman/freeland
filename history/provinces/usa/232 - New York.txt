@@ -3,7 +3,9 @@ controller = USA
 add_core = USA
 add_core = MAN
 trade_goods = grain
-life_rating = 50railroad = 1fort = 1party_loyalty = {	ideology = liberal	loyalty_value = 25}
+life_rating = 60
+terrain = urban_new_york
+railroad = 1fort = 1party_loyalty = {	ideology = liberal	loyalty_value = 25}
 state_building = {
 	level = 1
 	building = cement_factory
