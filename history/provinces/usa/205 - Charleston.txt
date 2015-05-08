@@ -2,7 +2,8 @@ owner = USA
 controller = USA
 add_core = USA
 trade_goods = coal
-life_rating = 35
+life_rating = 45
+terrain = urban_charleston
 1861.1.1 = {	controller = CSA	owner = CSA	add_core = CSA}
 1861.1.1 = { 
 	railroad = 3 

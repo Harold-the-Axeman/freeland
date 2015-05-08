@@ -1,5 +1,6 @@
 owner = RUS
 controller = RUS
 trade_goods = fish
-life_rating = 20
+life_rating = 45
+terrain = urban_dutch_harbor
 colonial = 2

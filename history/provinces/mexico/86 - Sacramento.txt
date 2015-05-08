@@ -5,7 +5,8 @@ add_core = MEX
 
 
 trade_goods = fruit
-life_rating = 35
+life_rating = 45
+terrain = urban_acramento
 1861.1.1 = {
 owner = USA
 controller = USA

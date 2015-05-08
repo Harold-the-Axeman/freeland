@@ -624,6 +624,270 @@ categories =  {
 		mine_rgo_eff = 0.33
 		combat_width = -0.20
 	}
+
+	urban_atlantic_city = { 
+		movement_cost = 1.0
+		defense = 2
+		color = { 22 44 66 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.33
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.33
+		combat_width = -0.20
+	}
+
+	urban_hot_springs = { 
+		movement_cost = 1.0
+		defense = 2
+		color = { 22 44 66 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.33
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.33
+		combat_width = -0.20
+	}
+
+	urban_bangor = { 
+		movement_cost = 1.0
+		defense = 2
+		color = { 22 44 66 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.33
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.33
+		combat_width = -0.20
+	}
+
+	urban_jackson = { 
+		movement_cost = 1.0
+		defense = 2
+		color = { 22 44 66 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.33
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.33
+		combat_width = -0.20
+	}
+
+	urban_bismarck = { 
+		movement_cost = 1.0
+		defense = 2
+		color = { 22 44 66 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.33
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.33
+		combat_width = -0.20
+	}
+
+	urban_lewiston = { 
+		movement_cost = 1.0
+		defense = 2
+		color = { 22 44 66 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.33
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.33
+		combat_width = -0.20
+	}
+
+	urban_boise = { 
+		movement_cost = 1.0
+		defense = 2
+		color = { 22 44 66 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.33
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.33
+		combat_width = -0.20
+	}
+
+	urban_montgomery = { 
+		movement_cost = 1.0
+		defense = 2
+		color = { 22 44 66 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.33
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.33
+		combat_width = -0.20
+	}
+
+	urban_casper = { 
+		movement_cost = 1.0
+		defense = 2
+		color = { 22 44 66 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.33
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.33
+		combat_width = -0.20
+	}
+
+	urban_new_orleans = { 
+		movement_cost = 1.0
+		defense = 2
+		color = { 22 44 66 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.33
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.33
+		combat_width = -0.20
+	}
+
+	urban_charleston = { 
+		movement_cost = 1.0
+		defense = 2
+		color = { 22 44 66 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.33
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.33
+		combat_width = -0.20
+	}
+
+	urban_pittsburgh = { 
+		movement_cost = 1.0
+		defense = 2
+		color = { 22 44 66 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.33
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.33
+		combat_width = -0.20
+	}
+
+	urban_concord = { 
+		movement_cost = 1.0
+		defense = 2
+		color = { 22 44 66 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.33
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.33
+		combat_width = -0.20
+	}
+
+	urban_providence = { 
+		movement_cost = 1.0
+		defense = 2
+		color = { 22 44 66 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.33
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.33
+		combat_width = -0.20
+	}
+
+	urban_dover = { 
+		movement_cost = 1.0
+		defense = 2
+		color = { 22 44 66 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.33
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.33
+		combat_width = -0.20
+	}
+
+	urban_rapid_city = { 
+		movement_cost = 1.0
+		defense = 2
+		color = { 22 44 66 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.33
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.33
+		combat_width = -0.20
+	}
+
+	urban_dutch_harbor = { 
+		movement_cost = 1.0
+		defense = 2
+		color = { 22 44 66 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.33
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.33
+		combat_width = -0.20
+	}
+
+	urban_richmond = { 
+		movement_cost = 1.0
+		defense = 2
+		color = { 22 44 66 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.33
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.33
+		combat_width = -0.20
+	}
+
+	urban_great_falls = { 
+		movement_cost = 1.0
+		defense = 2
+		color = { 22 44 66 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.33
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.33
+		combat_width = -0.20
+	}
+
+	urban_salt_lake_city = { 
+		movement_cost = 1.0
+		defense = 2
+		color = { 22 44 66 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.33
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.33
+		combat_width = -0.20
+	}
+
+	urban_hartford = { 
+		movement_cost = 1.0
+		defense = 2
+		color = { 22 44 66 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.33
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.33
+		combat_width = -0.20
+	}
+
+	urban_sioux_city = { 
+		movement_cost = 1.0
+		defense = 2
+		color = { 22 44 66 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.33
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.33
+		combat_width = -0.20
+	}
+
+	urban_hawaii = { 
+		movement_cost = 1.0
+		defense = 2
+		color = { 22 44 66 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.33
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.33
+		combat_width = -0.20
+	}
+
+	urban_wheeling = { 
+		movement_cost = 1.0
+		defense = 2
+		color = { 22 44 66 }
+		farm_rgo_size = 0.0
+		farm_rgo_eff = 0.33
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.33
+		combat_width = -0.20
+	}
 }
 
 
