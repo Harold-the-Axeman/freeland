@@ -1,7 +1,9 @@
 owner = USA
 controller = USAadd_core = USA
 trade_goods = cotton
-life_rating = 35party_loyalty = {	ideology = conservative	loyalty_value = 10}
+life_rating = 60
+terrain = urban_atlanta
+party_loyalty = {	ideology = conservative	loyalty_value = 10}
 1861.1.1 = {	party_loyalty = {	ideology = conservative	loyalty_value = 25}
 	controller = CSA
 	owner = CSA

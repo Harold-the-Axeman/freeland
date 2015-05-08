@@ -1,8 +1,7 @@
 owner = USA
 controller = USA
 add_core = USA
-add_core = MAN
-trade_goods = grain
+trade_goods = precious_metal
 life_rating = 60
 terrain = urban_new_york
 railroad = 1fort = 1party_loyalty = {	ideology = liberal	loyalty_value = 25}

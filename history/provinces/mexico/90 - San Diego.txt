@@ -1,1 +1,1 @@
-owner = USAcontroller = USAadd_core = USAadd_core = MEXtrade_goods = grainlife_rating = 60terrain = urban1861.1.1 = {owner = USAcontroller = USAadd_core = USA}
+owner = USAcontroller = USAadd_core = USAadd_core = MEXtrade_goods = grainlife_rating = 60terrain = urban_san_diego1861.1.1 = {owner = USAcontroller = USAadd_core = USA}

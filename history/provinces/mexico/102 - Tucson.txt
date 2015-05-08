@@ -3,4 +3,6 @@ controller = USA
 add_core = USA
 add_core = MEX
 trade_goods = cattle
-life_rating = 351861.1.1 = {	controller = USA	owner = USA	add_core = USA}
+life_rating = 45
+terrain = urban_tucson
+1861.1.1 = {	controller = USA	owner = USA	add_core = USA}

@@ -7,7 +7,7 @@ add_core = MEX
 
 trade_goods = grain
 life_rating = 60
-terrain = urban
+terrain = urban_los_angeles
 1861.1.1 = {
 owner = USA
 controller = USA

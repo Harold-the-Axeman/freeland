@@ -288,8 +288,242 @@ spriteTypes = {
 	}
 
 	spriteType = {
+		name = "GFX_terrainimg_urban_acramento"
+		texturefile = "gfx\interface\terrain_urban_acramento.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_louisville"
+		texturefile = "gfx\interface\terrain_urban_louisville.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_albuquerque"
+		texturefile = "gfx\interface\terrain_urban_albuquerque.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_memphis"
+		texturefile = "gfx\interface\terrain_urban_memphis.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_atlanta"
+		texturefile = "gfx\interface\terrain_urban_atlanta.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_miami"
+		texturefile = "gfx\interface\terrain_urban_miami.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_austin"
+		texturefile = "gfx\interface\terrain_urban_austin.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_milwaukee"
+		texturefile = "gfx\interface\terrain_urban_milwaukee.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_baltimore"
+		texturefile = "gfx\interface\terrain_urban_baltimore.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_minneapolis"
+		texturefile = "gfx\interface\terrain_urban_minneapolis.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_nashville"
+		texturefile = "gfx\interface\terrain_urban_nashville.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_boston"
+		texturefile = "gfx\interface\terrain_urban_boston.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_terrainimg_urban_new_york"
-		texturefile = "gfx\\interface\\terrain_urban_new_york.tga"
+		texturefile = "gfx\interface\terrain_urban_new_york.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_charlotte"
+		texturefile = "gfx\interface\terrain_urban_charlotte.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_oklahoma_city"
+		texturefile = "gfx\interface\terrain_urban_oklahoma_city.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_chicago"
+		texturefile = "gfx\interface\terrain_urban_chicago.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_omaha"
+		texturefile = "gfx\interface\terrain_urban_omaha.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_cleveland"
+		texturefile = "gfx\interface\terrain_urban_cleveland.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_philadelphia"
+		texturefile = "gfx\interface\terrain_urban_philadelphia.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_columbus"
+		texturefile = "gfx\interface\terrain_urban_columbus.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_phoenix"
+		texturefile = "gfx\interface\terrain_urban_phoenix.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_dallas"
+		texturefile = "gfx\interface\terrain_urban_dallas.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_portland"
+		texturefile = "gfx\interface\terrain_urban_portland.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_denver"
+		texturefile = "gfx\interface\terrain_urban_denver.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_raleigh"
+		texturefile = "gfx\interface\terrain_urban_raleigh.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_detroit"
+		texturefile = "gfx\interface\terrain_urban_detroit.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_san_antonio"
+		texturefile = "gfx\interface\terrain_urban_san_antonio.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_el_paso"
+		texturefile = "gfx\interface\terrain_urban_el_paso.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_san_diego"
+		texturefile = "gfx\interface\terrain_urban_san_diego.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_houston"
+		texturefile = "gfx\interface\terrain_urban_houston.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_san_francisco"
+		texturefile = "gfx\interface\terrain_urban_san_francisco.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_indianapolis"
+		texturefile = "gfx\interface\terrain_urban_indianapolis.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_kansas_city"
+		texturefile = "gfx\interface\terrain_urban_kansas_city.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_seattle"
+		texturefile = "gfx\interface\terrain_urban_seattle.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_long_island"
+		texturefile = "gfx\interface\terrain_urban_long_island.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_tucson"
+		texturefile = "gfx\interface\terrain_urban_tucson.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_los_angeles"
+		texturefile = "gfx\interface\terrain_urban_los_angeles.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_washington"
+		texturefile = "gfx\interface\terrain_urban_washington.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_los_vegas"
+		texturefile = "gfx\interface\terrain_urban_los_vegas.tga" 
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_wichita"
+		texturefile = "gfx\interface\terrain_urban_wichita.tga" 
 		norefcount = yes
 	}
 	
