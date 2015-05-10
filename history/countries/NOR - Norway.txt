@@ -4,7 +4,7 @@ culture = sami
 religion = protestant
 government = hms_government
 plurality = 0.5
-nationalvalue = nv_liberty
+nationalvalue = nv_order
 literacy = 0.87
 civilized = yes
 
