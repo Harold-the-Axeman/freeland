@@ -17,7 +17,7 @@ hussar = {
 
 
 	#Building Costs
-	build_time = 120
+	build_time = 360
 	build_cost = {
 		artillery = 10
 		canned_food = 10
@@ -34,8 +34,8 @@ hussar = {
 
 	#Land Abilties
 	reconnaissance = 0
-	attack = 30
-	defence = 10
+	attack = 25
+	defence = 5
 	discipline = 1.0
 	support = 6
 	maneuver = 3

@@ -17,7 +17,7 @@ tank = {
 
 
 	#Building Costs
-	build_time = 120
+	build_time = 240
 	build_cost = {
 		aeroplanes = 10
 		small_arms = 10
@@ -37,8 +37,8 @@ tank = {
 
 	#Land Abilties
 	reconnaissance = 2
-	attack = 19
-	defence = 9
+	attack = 13
+	defence = 3
 	discipline = 1.0
 	support = 2
 	maneuver = 2

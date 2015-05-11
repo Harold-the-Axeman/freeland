@@ -17,7 +17,7 @@ dragoon = {
 
 
 	#Building Costs
-	build_time = 120
+	build_time = 240
 	build_cost = {
 		aeroplanes = 10
 		small_arms = 10
@@ -37,8 +37,8 @@ dragoon = {
 
 	#Land Abilties
 	reconnaissance = 4
-	attack = 16
-	defence = 15
+	attack = 12
+	defence = 13
 	discipline = 1.0
 	support = 2
 	maneuver = 2

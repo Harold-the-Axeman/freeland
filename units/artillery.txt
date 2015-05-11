@@ -17,7 +17,7 @@ artillery = {
 
 
 	#Building Costs
-	build_time = 120
+	build_time = 240
 	build_cost = {
 		barrels = 10
 		artillery = 10
