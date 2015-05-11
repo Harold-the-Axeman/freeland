@@ -153,7 +153,7 @@ political_decisions = {
 			NOT = {
 				has_country_modifier = the_homestead_act
 			}
-			year = 1862
+			year = 1837
 		}
 		
 		allow = {
