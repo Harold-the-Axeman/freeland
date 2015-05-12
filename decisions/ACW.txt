@@ -515,7 +515,7 @@ political_decisions = {
 			any_greater_power = {
 				relation = {
 					who = USA
-					value = -150
+					value = 50
 				}
 			}
 			SPA_2209 = {
