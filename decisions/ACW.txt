@@ -521,6 +521,9 @@ political_decisions = {
 			SPA_2209 = {
 				add_core = USA
 			}
+            2222 = {
+                add_core = USA
+            }
 			any_state = {
 				limit = {
 					is_slave = yes

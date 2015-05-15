@@ -1,2 +1,3 @@
+add_core = JAV
 trade_goods = tropical_wood
 life_rating = 30
