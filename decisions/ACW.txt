@@ -153,14 +153,15 @@ political_decisions = {
 			NOT = {
 				has_country_modifier = the_homestead_act
 			}
-			year = 1837
+			year = 1836
 		}
 		
 		allow = {
-			prestige = 40
+			prestige = 10
 		}
 		
 		effect = {
+            prestige = 10
 			add_country_modifier = {
 				name = the_homestead_act
 				duration = -1
